@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Siren: A Learning-Based Multi-Turn Attack Framework for Simulating Real-World Human Jailbreak Behaviors**|Yi Zhao et.al.|[2501.14250](http://arxiv.org/abs/2501.14250)|**[link](https://github.com/yiyiyizhao/siren)**|
+|**2025-01-23**|**LLMs are Vulnerable to Malicious Prompts Disguised as Scientific Language**|Yubin Ge et.al.|[2501.14073](http://arxiv.org/abs/2501.14073)|null|
 |**2025-01-23**|**Tune In, Act Up: Exploring the Impact of Audio Modality-Specific Edits on Large Audio Language Models in Jailbreak**|Erjia Xiao et.al.|[2501.13772](http://arxiv.org/abs/2501.13772)|null|
 |**2025-01-19**|**Dagger Behind Smile: Fool LLMs with a Happy Ending Story**|Xurui Song et.al.|[2501.13115](http://arxiv.org/abs/2501.13115)|null|
 |**2025-01-21**|**You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense**|Wuyuao Mai et.al.|[2501.12210](http://arxiv.org/abs/2501.12210)|null|
