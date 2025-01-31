@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.30
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -360,7 +360,7 @@ layout: default
 |**2025-01-16**|**TPIA: Towards Target-specific Prompt Injection Attack against Code-oriented Large Language Models**|Yuchen Yang et.al.|[2407.09164](http://arxiv.org/abs/2407.09164)|null|
 |**2025-01-27**|**Self-interpreting Adversarial Images**|Tingwei Zhang et.al.|[2407.08970](http://arxiv.org/abs/2407.08970)|null|
 |**2024-07-11**|**Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing**|Huanqian Wang et.al.|[2407.08770](http://arxiv.org/abs/2407.08770)|**[link](https://github.com/lucywang720/model-surgery)**|
-|**2024-07-11**|**Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation**|Riccardo Cantini et.al.|[2407.08441](http://arxiv.org/abs/2407.08441)|null|
+|**2024-07-11**|**Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation**|Riccardo Cantini et.al.|[2407.08441](http://arxiv.org/abs/2407.08441)|**[link](https://github.com/SCAlabUnical/LLM-Bias-Jailbreak)**|
 |**2024-09-11**|**The Human Factor in AI Red Teaming: Perspectives from Social and Collaborative Computing**|Alice Qian Zhang et.al.|[2407.07786](http://arxiv.org/abs/2407.07786)|null|
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|**[link](https://github.com/liudaizong/awesome-lvlm-attack)**|
 |**2024-09-08**|**T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models**|Yibo Miao et.al.|[2407.05965](http://arxiv.org/abs/2407.05965)|null|
