@@ -17,12 +17,30 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384](http://arxiv.org/abs/2502.02384)|null|
+|**2025-02-04**|**PANDAS: Improving Many-shot Jailbreaking via Positive Affirmation, Negative Demonstration, and Adaptive Sampling**|Avery Ma et.al.|[2502.01925](http://arxiv.org/abs/2502.01925)|null|
+|**2025-02-03**|**Adversarial Reasoning at Jailbreaking Time**|Mahdi Sabbaghi et.al.|[2502.01633](http://arxiv.org/abs/2502.01633)|null|
+|**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|null|
+|**2025-02-03**|**Towards Safer Chatbots: A Framework for Policy Compliance Evaluation of Custom GPTs**|David Rodriguez et.al.|[2502.01436](http://arxiv.org/abs/2502.01436)|null|
+|**2025-02-03**|**Peering Behind the Shield: Guardrail Identification in Large Language Models**|Ziqing Yang et.al.|[2502.01241](http://arxiv.org/abs/2502.01241)|null|
+|**2025-02-03**|**Eliciting Language Model Behaviors with Investigator Agents**|Xiang Lisa Li et.al.|[2502.01236](http://arxiv.org/abs/2502.01236)|null|
+|**2025-02-03**|**Jailbreaking with Universal Multi-Prompts**|Yu-Ling Hsu et.al.|[2502.01154](http://arxiv.org/abs/2502.01154)|null|
+|**2025-02-02**|**Blink of an eye: a simple theory for feature localization in generative models**|Marvin Li et.al.|[2502.00921](http://arxiv.org/abs/2502.00921)|null|
+|**2025-02-02**|**AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds**|J Rosser et.al.|[2502.00757](http://arxiv.org/abs/2502.00757)|null|
+|**2025-02-02**|**From Compliance to Exploitation: Jailbreak Prompt Attacks on Multimodal LLMs**|Chun Wai Chiu et.al.|[2502.00735](http://arxiv.org/abs/2502.00735)|null|
+|**2025-02-02**|**"I am bad": Interpreting Stealthy, Universal and Robust Audio Jailbreaks in Audio-Language Models**|Isha Gupta et.al.|[2502.00718](http://arxiv.org/abs/2502.00718)|null|
+|**2025-02-02**|**Safety Alignment Depth in Large Language Models: A Markov Chain Perspective**|Ching-Chia Kao et.al.|[2502.00669](http://arxiv.org/abs/2502.00669)|null|
+|**2025-02-02**|**LLM Safety Alignment is Divergence Estimation in Disguise**|Rajdeep Haldar et.al.|[2502.00657](http://arxiv.org/abs/2502.00657)|null|
+|**2025-02-02**|**Towards Robust Multimodal Large Language Models Against Jailbreak Attacks**|Ziyi Yin et.al.|[2502.00653](http://arxiv.org/abs/2502.00653)|null|
+|**2025-02-01**|**Defense Against the Dark Prompts: Mitigating Best-of-N Jailbreaking with Prompt Evaluation**|Stuart Armstrong et.al.|[2502.00580](http://arxiv.org/abs/2502.00580)|null|
+|**2025-02-01**|**ALU: Agentic LLM Unlearning**|Debdeep Sanyal et.al.|[2502.00406](http://arxiv.org/abs/2502.00406)|null|
+|**2025-02-01**|**Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation**|Ali Naseh et.al.|[2502.00306](http://arxiv.org/abs/2502.00306)|null|
 |**2025-01-31**|**Enhancing Model Defense Against Jailbreaks with Proactive Safety Reasoning**|Xianglin Yang et.al.|[2501.19180](http://arxiv.org/abs/2501.19180)|null|
 |**2025-01-31**|**Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming**|Mrinank Sharma et.al.|[2501.18837](http://arxiv.org/abs/2501.18837)|null|
 |**2025-01-28**|**Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt Generation for Enhanced LLM Content Moderation**|Daniel Schwartz et.al.|[2501.18638](http://arxiv.org/abs/2501.18638)|null|
 |**2025-01-27**|**Towards Safe AI Clinicians: A Comprehensive Study on Large Language Model Jailbreaking in Healthcare**|Hang Zhang et.al.|[2501.18632](http://arxiv.org/abs/2501.18632)|null|
 |**2025-01-27**|**Indiana Jones: There Are Always Some Useful Ancient Relics**|Junchen Ding et.al.|[2501.18628](http://arxiv.org/abs/2501.18628)|null|
-|**2025-02-03**|**The TIP of the Iceberg: Revealing a Hidden Class of Task-In-Prompt Adversarial Attacks on LLMs**|Sergey Berezin et.al.|[2501.18626](http://arxiv.org/abs/2501.18626)|null|
+|**2025-02-04**|**The TIP of the Iceberg: Revealing a Hidden Class of Task-in-Prompt Adversarial Attacks on LLMs**|Sergey Berezin et.al.|[2501.18626](http://arxiv.org/abs/2501.18626)|null|
 |**2025-01-30**|**Exploring Potential Prompt Injection Attacks in Federated Military LLMs and Their Mitigation**|Youngjoon Lee et.al.|[2501.18416](http://arxiv.org/abs/2501.18416)|null|
 |**2025-01-30**|**Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models**|Haoyu Liang et.al.|[2501.18280](http://arxiv.org/abs/2501.18280)|null|
 |**2025-01-29**|**RICoTA: Red-teaming of In-the-wild Conversation with Test Attempts**|Eujeong Choi et.al.|[2501.17715](http://arxiv.org/abs/2501.17715)|**[link](https://github.com/boychaboy/ricota)**|
@@ -339,6 +357,7 @@
 |**2024-09-09**|**Jailbreaking Text-to-Image Models with LLM-Based Agents**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
 |**2024-10-17**|**Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models**|Yue Xu et.al.|[2407.21659](http://arxiv.org/abs/2407.21659)|**[link](https://github.com/pandragonxiii/cider)**|
 |**2025-01-16**|**Direct Unlearning Optimization for Robust and Safe Text-to-Image Models**|Yong-Hyun Park et.al.|[2407.21035](http://arxiv.org/abs/2407.21035)|null|
+|**2025-02-04**|**BadRobot: Jailbreaking Embodied LLMs in the Physical World**|Hangtao Zhang et.al.|[2407.20242](http://arxiv.org/abs/2407.20242)|null|
 |**2024-11-17**|**Blockchain for Large Language Model Security and Safety: A Holistic Survey**|Caleb Geren et.al.|[2407.20181](http://arxiv.org/abs/2407.20181)|null|
 |**2024-07-23**|**Prompt Injection Attacks on Large Language Models in Oncology**|Jan Clusmann et.al.|[2407.18981](http://arxiv.org/abs/2407.18981)|null|
 |**2024-10-24**|**Effects of Scale on Language Model Robustness**|Nikolaus Howe et.al.|[2407.18213](http://arxiv.org/abs/2407.18213)|null|
@@ -426,7 +445,7 @@
 |**2024-06-16**|**Threat Modelling and Risk Analysis for Large Language Model (LLM)-Powered Applications**|Stephen Burabari Tete et.al.|[2406.11007](http://arxiv.org/abs/2406.11007)|null|
 |**2024-12-02**|**Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis**|Yuping Lin et.al.|[2406.10794](http://arxiv.org/abs/2406.10794)|**[link](https://github.com/yuplin2333/representation-space-jailbreak)**|
 |**2024-11-06**|**Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs**|Zhao Xu et.al.|[2406.09324](http://arxiv.org/abs/2406.09324)|**[link](https://github.com/usail-hkust/jailtrickbench)**|
-|**2024-06-13**|**JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models**|Delong Ran et.al.|[2406.09321](http://arxiv.org/abs/2406.09321)|**[link](https://github.com/thuccslab/jailbreakeval)**|
+|**2025-02-04**|**JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models**|Delong Ran et.al.|[2406.09321](http://arxiv.org/abs/2406.09321)|**[link](https://github.com/thuccslab/jailbreakeval)**|
 |**2024-10-05**|**Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models**|Sarah Ball et.al.|[2406.09289](http://arxiv.org/abs/2406.09289)|**[link](https://github.com/s-ball-10/jailbreak_dynamics)**|
 |**2024-07-19**|**Exploiting Uncommon Text-Encoded Structures for Automated Jailbreaks in LLMs**|Bangxin Li et.al.|[2406.08754](http://arxiv.org/abs/2406.08754)|null|
 |**2024-06-13**|**RL-JACK: Reinforcement Learning-powered Black-box Jailbreaking Attack against LLMs**|Xuan Chen et.al.|[2406.08725](http://arxiv.org/abs/2406.08725)|null|
