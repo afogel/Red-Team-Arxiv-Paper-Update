@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Understanding and Enhancing the Transferability of Jailbreaking Attacks**|Runqi Lin et.al.|[2502.03052](http://arxiv.org/abs/2502.03052)|null|
+|**2025-02-04**|**When Anti-Fraud Laws Become a Barrier to Computer Science Research**|Madelyne Xiao et.al.|[2502.02767](http://arxiv.org/abs/2502.02767)|null|
 |**2025-02-04**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384](http://arxiv.org/abs/2502.02384)|null|
 |**2025-02-04**|**PANDAS: Improving Many-shot Jailbreaking via Positive Affirmation, Negative Demonstration, and Adaptive Sampling**|Avery Ma et.al.|[2502.01925](http://arxiv.org/abs/2502.01925)|null|
 |**2025-02-03**|**Adversarial Reasoning at Jailbreaking Time**|Mahdi Sabbaghi et.al.|[2502.01633](http://arxiv.org/abs/2502.01633)|null|
@@ -265,7 +267,7 @@
 |**2024-10-01**|**PyRIT: A Framework for Security Risk Identification and Red Teaming in Generative AI System**|Gary D. Lopez Munoz et.al.|[2410.02828](http://arxiv.org/abs/2410.02828)|**[link](https://github.com/azure/pyrit)**|
 |**2024-10-03**|**SteerDiff: Steering towards Safe Text-to-Image Diffusion Models**|Hongxiang Zhang et.al.|[2410.02710](http://arxiv.org/abs/2410.02710)|null|
 |**2024-10-03**|**Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**|Hanrong Zhang et.al.|[2410.02644](http://arxiv.org/abs/2410.02644)|**[link](https://github.com/agiresearch/asb)**|
-|**2024-10-07**|**Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models**|Guobin Shen et.al.|[2410.02298](http://arxiv.org/abs/2410.02298)|null|
+|**2025-02-05**|**Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models**|Guobin Shen et.al.|[2410.02298](http://arxiv.org/abs/2410.02298)|null|
 |**2024-12-18**|**Data to Defense: The Role of Curation in Customizing LLMs Against Jailbreaking Attacks**|Xiaoqun Liu et.al.|[2410.02220](http://arxiv.org/abs/2410.02220)|null|
 |**2024-10-02**|**Automated Red Teaming with GOAT: the Generative Offensive Agent Tester**|Maya Pavlova et.al.|[2410.01606](http://arxiv.org/abs/2410.01606)|null|
 |**2024-10-04**|**HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models**|Seanie Lee et.al.|[2410.01524](http://arxiv.org/abs/2410.01524)|**[link](https://github.com/imnotkind/HarmAug)**|
@@ -457,7 +459,7 @@
 |**2024-07-03**|**Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks**|Zonghao Ying et.al.|[2406.06302](http://arxiv.org/abs/2406.06302)|**[link](https://github.com/ny1024/jailbreak_gpt4o)**|
 |**2024-06-10**|**Safety Alignment Should Be Made More Than Just a Few Tokens Deep**|Xiangyu Qi et.al.|[2406.05946](http://arxiv.org/abs/2406.05946)|**[link](https://github.com/unispac/shallow-vs-deep-alignment)**|
 |**2024-06-13**|**How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States**|Zhenhong Zhou et.al.|[2406.05644](http://arxiv.org/abs/2406.05644)|**[link](https://github.com/ydyjya/llm-ihs-explanation)**|
-|**2024-09-05**|**SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner**|Xunguang Wang et.al.|[2406.05498](http://arxiv.org/abs/2406.05498)|null|
+|**2025-02-05**|**SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner**|Xunguang Wang et.al.|[2406.05498](http://arxiv.org/abs/2406.05498)|null|
 |**2024-06-08**|**Is On-Device AI Broken and Exploitable? Assessing the Trust and Ethics in Small Language Models**|Kalyan Nakka et.al.|[2406.05364](http://arxiv.org/abs/2406.05364)|null|
 |**2024-07-01**|**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**|Zonghao Ying et.al.|[2406.04031](http://arxiv.org/abs/2406.04031)|**[link](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt)**|
 |**2024-06-06**|**AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens**|Lin Lu et.al.|[2406.03805](http://arxiv.org/abs/2406.03805)|null|
@@ -581,7 +583,7 @@
 |**2024-03-11**|**Using Hallucinations to Bypass GPT4's Filter**|Benjamin Lemkin et.al.|[2403.04769](http://arxiv.org/abs/2403.04769)|null|
 |**2024-10-04**|**Aligners: Decoupling LLMs and Alignment**|Lilian Ngweta et.al.|[2403.04224](http://arxiv.org/abs/2403.04224)|**[link](https://github.com/lilianngweta/aligners)**|
 |**2024-05-02**|**Neural Exec: Learning (and Learning from) Execution Triggers for Prompt Injection Attacks**|Dario Pasquini et.al.|[2403.03792](http://arxiv.org/abs/2403.03792)|**[link](https://github.com/pasquini-dario/llm_neuralexec)**|
-|**2024-03-06**|**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**|Xijia Tao et.al.|[2403.02910](http://arxiv.org/abs/2403.02910)|**[link](https://github.com/xijia-tao/imgtrojan)**|
+|**2025-02-05**|**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**|Xijia Tao et.al.|[2403.02910](http://arxiv.org/abs/2403.02910)|**[link](https://github.com/xijia-tao/imgtrojan)**|
 |**2025-01-30**|**Here Comes The AI Worm: Unleashing Zero-click Worms that Target GenAI-Powered Applications**|Stav Cohen et.al.|[2403.02817](http://arxiv.org/abs/2403.02817)|**[link](https://github.com/stavc/compromptmized)**|
 |**2024-08-04**|**InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents**|Qiusi Zhan et.al.|[2403.02691](http://arxiv.org/abs/2403.02691)|**[link](https://github.com/uiuc-kang-lab/injecagent)**|
 |**2024-03-02**|**AutoAttacker: A Large Language Model Guided System to Implement Automatic Cyber-attacks**|Jiacen Xu et.al.|[2403.01038](http://arxiv.org/abs/2403.01038)|null|
