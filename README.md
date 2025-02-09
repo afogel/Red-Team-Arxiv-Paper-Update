@@ -22,7 +22,7 @@
 |**2025-02-06**|**Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**|Haoyu Wang et.al.|[2502.04040](http://arxiv.org/abs/2502.04040)|null|
 |**2025-02-05**|**Understanding and Enhancing the Transferability of Jailbreaking Attacks**|Runqi Lin et.al.|[2502.03052](http://arxiv.org/abs/2502.03052)|null|
 |**2025-02-06**|**When Anti-Fraud Laws Become a Barrier to Computer Science Research**|Madelyne Xiao et.al.|[2502.02767](http://arxiv.org/abs/2502.02767)|null|
-|**2025-02-04**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384](http://arxiv.org/abs/2502.02384)|null|
+|**2025-02-04**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384](http://arxiv.org/abs/2502.02384)|**[link](https://github.com/thu-ml/stair)**|
 |**2025-02-04**|**PANDAS: Improving Many-shot Jailbreaking via Positive Affirmation, Negative Demonstration, and Adaptive Sampling**|Avery Ma et.al.|[2502.01925](http://arxiv.org/abs/2502.01925)|null|
 |**2025-02-03**|**Adversarial Reasoning at Jailbreaking Time**|Mahdi Sabbaghi et.al.|[2502.01633](http://arxiv.org/abs/2502.01633)|null|
 |**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|null|
