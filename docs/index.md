@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -420,7 +420,7 @@ layout: default
 |**2024-07-01**|**Enhancing the Capability and Robustness of Large Language Models through Reinforcement Learning-Driven Query Refinement**|Zisu Huang et.al.|[2407.01461](http://arxiv.org/abs/2407.01461)|**[link](https://github.com/huangzisu/query-refinement)**|
 |**2024-07-01**|**Badllama 3: removing safety finetuning from Llama 3 in minutes**|Dmitrii Volkov et.al.|[2407.01376](http://arxiv.org/abs/2407.01376)|null|
 |**2024-09-23**|**Large Language Models Are Involuntary Truth-Tellers: Exploiting Fallacy Failure for Jailbreak Attacks**|Yue Zhou et.al.|[2407.00869](http://arxiv.org/abs/2407.00869)|**[link](https://github.com/Yue-LLM-Pit/FFA)**|
-|**2024-10-01**|**Logicbreaks: A Framework for Understanding Subversion of Rule-based Inference**|Anton Xue et.al.|[2407.00075](http://arxiv.org/abs/2407.00075)|null|
+|**2025-02-11**|**Logicbreaks: A Framework for Understanding Subversion of Rule-based Inference**|Anton Xue et.al.|[2407.00075](http://arxiv.org/abs/2407.00075)|null|
 |**2024-07-11**|**Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection**|Yuqi Zhou et.al.|[2406.19845](http://arxiv.org/abs/2406.19845)|null|
 |**2024-12-06**|**Monitoring Latent World States in Language Models with Propositional Probes**|Jiahai Feng et.al.|[2406.19501](http://arxiv.org/abs/2406.19501)|**[link](https://github.com/jiahai-feng/prop-probes-iclr)**|
 |**2024-10-03**|**Jailbreaking LLMs with Arabic Transliteration and Arabizi**|Mansour Al Ghanim et.al.|[2406.18725](http://arxiv.org/abs/2406.18725)|**[link](https://github.com/securedl/arabic_jailbreak)**|
