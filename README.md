@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,15 +21,15 @@
 |**2025-02-11**|**JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation**|Shenyi Zhang et.al.|[2502.07557](http://arxiv.org/abs/2502.07557)|**[link](https://github.com/NISPLab/JBShield)**|
 |**2025-02-10**|**A Frontier AI Risk Management Framework: Bridging the Gap Between Current AI Practices and Established Risk Management**|Simeon Campos et.al.|[2502.06656](http://arxiv.org/abs/2502.06656)|null|
 |**2025-02-10**|**Predictive Red Teaming: Breaking Policies Without Breaking Robots**|Anirudha Majumdar et.al.|[2502.06575](http://arxiv.org/abs/2502.06575)|null|
-|**2025-02-11**|**When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs**|Aobotao Dai et.al.|[2502.06390](http://arxiv.org/abs/2502.06390)|null|
+|**2025-02-11**|**When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs**|Aobotao Dai et.al.|[2502.06390](http://arxiv.org/abs/2502.06390)|**[link](https://github.com/aobtdai/vlm_attack_paper_list)**|
 |**2025-02-07**|**Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond**|Chongyu Fan et.al.|[2502.05374](http://arxiv.org/abs/2502.05374)|null|
 |**2025-02-05**|**KDA: A Knowledge-Distilled Attacker for Generating Diverse Prompts to Jailbreak LLMs**|Buyun Liang et.al.|[2502.05223](http://arxiv.org/abs/2502.05223)|null|
 |**2025-02-12**|**Safety at Scale: A Comprehensive Survey of Large Model Safety**|Xingjun Ma et.al.|[2502.05206](http://arxiv.org/abs/2502.05206)|null|
 |**2025-02-07**|**MELON: Indirect Prompt Injection Defense via Masked Re-execution and Tool Comparison**|Kaijie Zhu et.al.|[2502.05174](http://arxiv.org/abs/2502.05174)|null|
-|**2025-02-06**|**Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions**|Yik Siu Chan et.al.|[2502.04322](http://arxiv.org/abs/2502.04322)|null|
-|**2025-02-06**|**"Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence**|Shaopeng Fu et.al.|[2502.04204](http://arxiv.org/abs/2502.04204)|null|
+|**2025-02-06**|**Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions**|Yik Siu Chan et.al.|[2502.04322](http://arxiv.org/abs/2502.04322)|**[link](https://github.com/yiksiu-chan/SpeakEasy)**|
+|**2025-02-06**|**"Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence**|Shaopeng Fu et.al.|[2502.04204](http://arxiv.org/abs/2502.04204)|**[link](https://github.com/fshp971/adv-icl)**|
 |**2025-02-06**|**Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**|Haoyu Wang et.al.|[2502.04040](http://arxiv.org/abs/2502.04040)|null|
-|**2025-02-05**|**Understanding and Enhancing the Transferability of Jailbreaking Attacks**|Runqi Lin et.al.|[2502.03052](http://arxiv.org/abs/2502.03052)|null|
+|**2025-02-05**|**Understanding and Enhancing the Transferability of Jailbreaking Attacks**|Runqi Lin et.al.|[2502.03052](http://arxiv.org/abs/2502.03052)|**[link](https://github.com/tmllab/2025_ICLR_PiF)**|
 |**2025-02-06**|**When Anti-Fraud Laws Become a Barrier to Computer Science Research**|Madelyne Xiao et.al.|[2502.02767](http://arxiv.org/abs/2502.02767)|null|
 |**2025-02-04**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384](http://arxiv.org/abs/2502.02384)|**[link](https://github.com/thu-ml/stair)**|
 |**2025-02-04**|**PANDAS: Improving Many-shot Jailbreaking via Positive Affirmation, Negative Demonstration, and Adaptive Sampling**|Avery Ma et.al.|[2502.01925](http://arxiv.org/abs/2502.01925)|null|
@@ -109,7 +109,7 @@
 |**2025-01-08**|**Deliberative Alignment: Reasoning Enables Safer Language Models**|Melody Y. Guan et.al.|[2412.16339](http://arxiv.org/abs/2412.16339)|null|
 |**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100](http://arxiv.org/abs/2412.16100)|null|
 |**2024-12-20**|**JailPO: A Novel Black-box Jailbreak Framework via Preference Optimization against Aligned LLMs**|Hongyi Li et.al.|[2412.15623](http://arxiv.org/abs/2412.15623)|null|
-|**2024-12-19**|**SATA: A Paradigm for LLM Jailbreak via Simple Assistive Task Linkage**|Xiaoning Dong et.al.|[2412.15289](http://arxiv.org/abs/2412.15289)|null|
+|**2024-12-19**|**SATA: A Paradigm for LLM Jailbreak via Simple Assistive Task Linkage**|Xiaoning Dong et.al.|[2412.15289](http://arxiv.org/abs/2412.15289)|**[link](https://github.com/xndong/sata)**|
 |**2025-01-08**|**Toxicity Detection towards Adaptability to Changing Perturbations**|Hankun Kang et.al.|[2412.15267](http://arxiv.org/abs/2412.15267)|null|
 |**2024-12-18**|**Evaluation of LLM Vulnerabilities to Being Misused for Personalized Disinformation Generation**|Aneta Zugecova et.al.|[2412.13666](http://arxiv.org/abs/2412.13666)|null|
 |**2024-12-18**|**Lightweight Safety Classification Using Pruned Language Models**|Mason Sawtell et.al.|[2412.13435](http://arxiv.org/abs/2412.13435)|null|
@@ -851,7 +851,7 @@
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
