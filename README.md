@@ -112,7 +112,7 @@
 |**2025-01-21**|**You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense**|Wuyuao Mai et.al.|[2501.12210](http://arxiv.org/abs/2501.12210)|null|
 |**2025-01-19**|**Can Safety Fine-Tuning Be More Principled? Lessons Learned from Cybersecurity**|David Williams-King et.al.|[2501.11183](http://arxiv.org/abs/2501.11183)|null|
 |**2025-01-18**|**Jailbreaking Large Language Models in Infinitely Many Ways**|Oliver Goldstein et.al.|[2501.10800](http://arxiv.org/abs/2501.10800)|null|
-|**2025-01-18**|**Latent-space adversarial training with post-aware calibration for defending large language models against jailbreak attacks**|Xin Yi et.al.|[2501.10639](http://arxiv.org/abs/2501.10639)|null|
+|**2025-01-18**|**Latent-space adversarial training with post-aware calibration for defending large language models against jailbreak attacks**|Xin Yi et.al.|[2501.10639](http://arxiv.org/abs/2501.10639)|**[link](https://github.com/xinykou/Against_Jailbreak)**|
 |**2024-12-17**|**What Information Should Be Shared with Whom "Before and During Training"?**|Haydn Belfield et.al.|[2501.10379](http://arxiv.org/abs/2501.10379)|null|
 |**2025-01-16**|**Computing Optimization-Based Prompt Injections Against Closed-Weights Models By Misusing a Fine-Tuning API**|Andrey Labunets et.al.|[2501.09798](http://arxiv.org/abs/2501.09798)|null|
 |**2025-01-16**|**A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy**|Huandong Wang et.al.|[2501.09431](http://arxiv.org/abs/2501.09431)|null|
