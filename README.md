@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.24
+## Updated on 2025.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -669,7 +669,7 @@
 |**2024-02-21**|**Round Trip Translation Defence against Large Language Model Jailbreaking Attacks**|Canaan Yung et.al.|[2402.13517](http://arxiv.org/abs/2402.13517)|**[link](https://github.com/cancanxxx/round_trip_translation_defence)**|
 |**2024-05-29**|**GradSafe: Detecting Jailbreak Prompts for LLMs via Safety-Critical Gradient Analysis**|Yueqi Xie et.al.|[2402.13494](http://arxiv.org/abs/2402.13494)|**[link](https://github.com/xyq7/gradsafe)**|
 |**2024-05-17**|**A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models**|Zihao Xu et.al.|[2402.13457](http://arxiv.org/abs/2402.13457)|**[link](https://github.com/ltroin/llm_attack_defense_arena)**|
-|**2024-07-05**|**Defending Jailbreak Prompts via In-Context Adversarial Game**|Yujun Zhou et.al.|[2402.13148](http://arxiv.org/abs/2402.13148)|null|
+|**2025-02-21**|**Defending Jailbreak Prompts via In-Context Adversarial Game**|Yujun Zhou et.al.|[2402.13148](http://arxiv.org/abs/2402.13148)|null|
 |**2024-06-06**|**TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification**|Martin Gubri et.al.|[2402.12991](http://arxiv.org/abs/2402.12991)|**[link](https://github.com/parameterlab/trap)**|
 |**2024-06-07**|**ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs**|Fengqing Jiang et.al.|[2402.11753](http://arxiv.org/abs/2402.11753)|**[link](https://github.com/uw-nsl/ArtPrompt)**|
 |**2024-02-16**|**The AI Security Pyramid of Pain**|Chris M. Ward et.al.|[2402.11082](http://arxiv.org/abs/2402.11082)|null|
@@ -895,7 +895,7 @@
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
