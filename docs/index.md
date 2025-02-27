@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs**|Shiyu Xiang et.al.|[2502.19041](http://arxiv.org/abs/2502.19041)|null|
+|**2025-02-26**|**JailBench: A Comprehensive Chinese Security Assessment Benchmark for Large Language Models**|Shuyi Liu et.al.|[2502.18935](http://arxiv.org/abs/2502.18935)|null|
+|**2025-02-21**|**TurboFuzzLLM: Turbocharging Mutation-based Fuzzing for Effectively Jailbreaking Large Language Models in Practice**|Aman Goel et.al.|[2502.18504](http://arxiv.org/abs/2502.18504)|null|
 |**2025-02-24**|**How Do Large Language Monkeys Get Their Power (Laws)?**|Rylan Schaeffer et.al.|[2502.17578](http://arxiv.org/abs/2502.17578)|null|
 |**2025-02-24**|**Dataset Featurization: Uncovering Natural Language Features through Unsupervised Data Reconstruction**|Michal Bravansky et.al.|[2502.17541](http://arxiv.org/abs/2502.17541)|null|
 |**2025-02-24**|**REINFORCE Adversarial Attacks on Large Language Models: An Adaptive, Distributional, and Semantic Objective**|Simon Geisler et.al.|[2502.17254](http://arxiv.org/abs/2502.17254)|null|
@@ -611,7 +614,7 @@ layout: default
 |**2024-04-03**|**Learn to Disguise: Avoid Refusal Responses in LLM's Defense via a Multi-agent Attacker-Disguiser Game**|Qianqiao Xu et.al.|[2404.02532](http://arxiv.org/abs/2404.02532)|null|
 |**2024-10-07**|**Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks**|Maksym Andriushchenko et.al.|[2404.02151](http://arxiv.org/abs/2404.02151)|**[link](https://github.com/tml-epfl/llm-adaptive-attacks)**|
 |**2024-04-02**|**Red-Teaming Segment Anything Model**|Krzysztof Jankowski et.al.|[2404.02067](http://arxiv.org/abs/2404.02067)|**[link](https://github.com/jankowskichristopher/red-teaming-segment-anything-model)**|
-|**2024-09-24**|**Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack**|Mark Russinovich et.al.|[2404.01833](http://arxiv.org/abs/2404.01833)|null|
+|**2025-02-26**|**Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack**|Mark Russinovich et.al.|[2404.01833](http://arxiv.org/abs/2404.01833)|null|
 |**2024-10-31**|**JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models**|Patrick Chao et.al.|[2404.01318](http://arxiv.org/abs/2404.01318)|**[link](https://github.com/jailbreakbench/jailbreakbench)**|
 |**2024-08-20**|**What is in Your Safe Data? Identifying Benign Data that Breaks Safety**|Luxi He et.al.|[2404.01099](http://arxiv.org/abs/2404.01099)|**[link](https://github.com/princeton-nlp/benign-data-breaks-safety)**|
 |**2024-11-26**|**Against The Achilles' Heel: A Survey on Red Teaming for Generative Models**|Lizhi Lin et.al.|[2404.00629](http://arxiv.org/abs/2404.00629)|**[link](https://github.com/Libr-AI/OpenRedTeaming)**|
