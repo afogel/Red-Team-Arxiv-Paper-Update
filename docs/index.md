@@ -312,7 +312,7 @@ layout: default
 |**2024-10-14**|**Jailbreak Instruction-Tuned LLMs via end-of-sentence MLP Re-weighting**|Yifan Luo et.al.|[2410.10150](http://arxiv.org/abs/2410.10150)|null|
 |**2024-11-27**|**BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models**|Xinyuan Wang et.al.|[2410.09804](http://arxiv.org/abs/2410.09804)|null|
 |**2024-10-18**|**VLFeedback: A Large-Scale AI Feedback Dataset for Large Vision-Language Models Alignment**|Lei Li et.al.|[2410.09421](http://arxiv.org/abs/2410.09421)|null|
-|**2024-10-09**|**Instructional Segment Embedding: Improving LLM Safety with Instruction Hierarchy**|Tong Wu et.al.|[2410.09102](http://arxiv.org/abs/2410.09102)|null|
+|**2025-03-01**|**Instructional Segment Embedding: Improving LLM Safety with Instruction Hierarchy**|Tong Wu et.al.|[2410.09102](http://arxiv.org/abs/2410.09102)|null|
 |**2024-12-17**|**Recent advancements in LLM Red-Teaming: Techniques, Defenses, and Ethical Considerations**|Tarun Raheja et.al.|[2410.09097](http://arxiv.org/abs/2410.09097)|null|
 |**2024-10-11**|**AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation**|Zijun Wang et.al.|[2410.09040](http://arxiv.org/abs/2410.09040)|**[link](https://github.com/ucsc-vlaa/attngcg-attack)**|
 |**2024-10-14**|**AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents**|Maksym Andriushchenko et.al.|[2410.09024](http://arxiv.org/abs/2410.09024)|null|
@@ -358,7 +358,7 @@ layout: default
 |**2024-09-25**|**RoleBreak: Character Hallucination as a Jailbreak Attack in Role-Playing Systems**|Yihong Tang et.al.|[2409.16727](http://arxiv.org/abs/2409.16727)|null|
 |**2024-09-23**|**Attack Atlas: A Practitioner's Perspective on Challenges and Pitfalls in Red Teaming GenAI**|Ambrish Rawat et.al.|[2409.15398](http://arxiv.org/abs/2409.15398)|null|
 |**2024-09-18**|**Multitask Mayhem: Unveiling and Mitigating Safety Gaps in LLMs Fine-tuning**|Essa Jan et.al.|[2409.15361](http://arxiv.org/abs/2409.15361)|null|
-|**2025-02-24**|**PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs**|Xueluan Gong et.al.|[2409.14866](http://arxiv.org/abs/2409.14866)|**[link](https://github.com/aaFrostnova/Papillon)**|
+|**2025-03-03**|**PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs**|Xueluan Gong et.al.|[2409.14866](http://arxiv.org/abs/2409.14866)|**[link](https://github.com/aaFrostnova/Papillon)**|
 |**2024-09-23**|**PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs**|Jiahao Yu et.al.|[2409.14729](http://arxiv.org/abs/2409.14729)|**[link](https://github.com/sherdencooper/PromptFuzz)**|
 |**2024-10-03**|**PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach**|Zhihao Lin et.al.|[2409.14177](http://arxiv.org/abs/2409.14177)|null|
 |**2024-10-29**|**Towards Safe Multilingual Frontier AI**|Artūrs Kanepajs et.al.|[2409.13708](http://arxiv.org/abs/2409.13708)|**[link](https://github.com/akanepajs/multilingual)**|
@@ -475,7 +475,7 @@ layout: default
 |**2024-11-05**|**Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks**|Zhexin Zhang et.al.|[2407.02855](http://arxiv.org/abs/2407.02855)|**[link](https://github.com/thu-coai/safeunlearning)**|
 |**2024-10-30**|**Breach By A Thousand Leaks: Unsafe Information Leakage in `Safe' AI Responses**|David Glukhov et.al.|[2407.02551](http://arxiv.org/abs/2407.02551)|null|
 |**2024-08-26**|**Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything**|Xiaotian Zou et.al.|[2407.02534](http://arxiv.org/abs/2407.02534)|null|
-|**2024-07-02**|**SoP: Unlock the Power of Social Facilitation for Automatic Jailbreak Attack**|Yan Yang et.al.|[2407.01902](http://arxiv.org/abs/2407.01902)|**[link](https://github.com/yang-yan-yang-yan/sop)**|
+|**2025-03-02**|**SeqAR: Jailbreak LLMs with Sequential Auto-Generated Characters**|Yan Yang et.al.|[2407.01902](http://arxiv.org/abs/2407.01902)|**[link](https://github.com/yang-yan-yang-yan/sop)**|
 |**2024-07-01**|**Purple-teaming LLMs with Adversarial Defender Training**|Jingyan Zhou et.al.|[2407.01850](http://arxiv.org/abs/2407.01850)|null|
 |**2024-07-25**|**JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models**|Haibo Jin et.al.|[2407.01599](http://arxiv.org/abs/2407.01599)|**[link](https://github.com/allen-piexl/jailbreakzoo)**|
 |**2025-02-18**|**Enhancing the Capability and Robustness of Large Language Models through Reinforcement Learning-Driven Query Refinement**|Zisu Huang et.al.|[2407.01461](http://arxiv.org/abs/2407.01461)|**[link](https://github.com/huangzisu/query-refinement)**|
@@ -589,7 +589,7 @@ layout: default
 |**2024-05-07**|**Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks**|Georgios Pantazopoulos et.al.|[2405.04403](http://arxiv.org/abs/2405.04403)|**[link](https://github.com/gpantaz/vl_jailbreak)**|
 |**2024-05-07**|**Can LLMs Deeply Detect Complex Malicious Queries? A Framework for Jailbreaking via Obfuscating Intent**|Shang Shang et.al.|[2405.03654](http://arxiv.org/abs/2405.03654)|null|
 |**2024-05-03**|**Aloe: A Family of Fine-tuned Open Healthcare LLMs**|Ashwin Kumar Gururajan et.al.|[2405.01886](http://arxiv.org/abs/2405.01886)|null|
-|**2024-05-02**|**Boosting Jailbreak Attack with Momentum**|Yihao Zhang et.al.|[2405.01229](http://arxiv.org/abs/2405.01229)|**[link](https://github.com/weizeming/momentum-attack-llm)**|
+|**2025-03-02**|**Boosting Jailbreak Attack with Momentum**|Yihao Zhang et.al.|[2405.01229](http://arxiv.org/abs/2405.01229)|**[link](https://github.com/weizeming/momentum-attack-llm)**|
 |**2025-02-19**|**Mixture of insighTful Experts (MoTE): The Synergy of Thought Chains and Expert Mixtures in Self-Alignment**|Zhili Liu et.al.|[2405.00557](http://arxiv.org/abs/2405.00557)|null|
 |**2024-05-10**|**Evaluating and Mitigating Linguistic Discrimination in Large Language Models**|Guoliang Dong et.al.|[2404.18534](http://arxiv.org/abs/2404.18534)|null|
 |**2024-04-26**|**Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**|Stephen Zhao et.al.|[2404.17546](http://arxiv.org/abs/2404.17546)|**[link](https://github.com/silent-zebra/twisted-smc-lm)**|
@@ -627,7 +627,7 @@ layout: default
 |**2024-12-27**|**Aurora-M: Open Source Continual Pre-training for Multilingual Language and Code**|Taishi Nakamura et.al.|[2404.00399](http://arxiv.org/abs/2404.00399)|null|
 |**2024-12-08**|**Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation**|Yutong He et.al.|[2403.19103](http://arxiv.org/abs/2403.19103)|null|
 |**2024-03-27**|**IterAlign: Iterative Constitutional Alignment of Large Language Models**|Xiusi Chen et.al.|[2403.18341](http://arxiv.org/abs/2403.18341)|null|
-|**2024-11-15**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|**[link](https://github.com/shijiawenwen/judgedeceiver)**|
+|**2025-03-03**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|**[link](https://github.com/shijiawenwen/judgedeceiver)**|
 |**2024-09-30**|**Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models**|Zhiyuan Yu et.al.|[2403.17336](http://arxiv.org/abs/2403.17336)|null|
 |**2024-03-22**|**Risk and Response in Large Language Models: Evaluating Key Threat Categories**|Bahareh Harandizadeh et.al.|[2403.14988](http://arxiv.org/abs/2403.14988)|null|
 |**2024-06-24**|**Testing the Limits of Jailbreaking Defenses with the Purple Problem**|Taeyoun Kim et.al.|[2403.14725](http://arxiv.org/abs/2403.14725)|**[link](https://github.com/kothasuhas/purple-problem)**|
