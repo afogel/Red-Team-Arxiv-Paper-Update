@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -40,7 +40,7 @@ layout: default
 |**2025-02-24**|**Dataset Featurization: Uncovering Natural Language Features through Unsupervised Data Reconstruction**|Michal Bravansky et.al.|[2502.17541](http://arxiv.org/abs/2502.17541)|null|
 |**2025-02-24**|**REINFORCE Adversarial Attacks on Large Language Models: An Adaptive, Distributional, and Semantic Objective**|Simon Geisler et.al.|[2502.17254](http://arxiv.org/abs/2502.17254)|null|
 |**2025-02-24**|**GuidedBench: Equipping Jailbreak Evaluation with Guidelines**|Ruixuan Huang et.al.|[2502.16903](http://arxiv.org/abs/2502.16903)|null|
-|**2025-02-23**|**Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System**|Saikat Barua et.al.|[2502.16750](http://arxiv.org/abs/2502.16750)|**[link](https://github.com/GitsSaikat/Guardians-Preventing-Jail-Break-Prompts)**|
+|**2025-03-05**|**Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System**|Saikat Barua et.al.|[2502.16750](http://arxiv.org/abs/2502.16750)|**[link](https://github.com/GitsSaikat/Guardians-Preventing-Jail-Break-Prompts)**|
 |**2025-02-23**|**Can Indirect Prompt Injection Attacks Be Detected and Removed?**|Yulin Chen et.al.|[2502.16580](http://arxiv.org/abs/2502.16580)|null|
 |**2025-02-22**|**Be a Multitude to Itself: A Prompt Evolution Framework for Red Teaming**|Rui Li et.al.|[2502.16109](http://arxiv.org/abs/2502.16109)|null|
 |**2025-02-19**|**A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos**|Yang Yao et.al.|[2502.15806](http://arxiv.org/abs/2502.15806)|null|
