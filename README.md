@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Jailbreaking is (Mostly) Simpler Than You Think**|Mark Russinovich et.al.|[2503.05264](http://arxiv.org/abs/2503.05264)|null|
+|**2025-03-06**|**Safety is Not Only About Refusal: Reasoning-Enhanced Fine-tuning for Interpretable LLM Safety**|Yuyou Zhang et.al.|[2503.05021](http://arxiv.org/abs/2503.05021)|null|
+|**2025-03-06**|**One-Shot is Enough: Consolidating Multi-Turn Attacks into Efficient Single-Turn Prompts for LLMs**|Junwoo Ha et.al.|[2503.04856](http://arxiv.org/abs/2503.04856)|null|
+|**2025-03-05**|**Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks**|Liming Lu et.al.|[2503.04833](http://arxiv.org/abs/2503.04833)|null|
 |**2025-03-06**|**Know Thy Judge: On the Robustness Meta-Evaluation of LLM Safety Judges**|Francisco Eiras et.al.|[2503.04474](http://arxiv.org/abs/2503.04474)|null|
 |**2025-03-05**|**Improving LLM Safety Alignment with Dual-Objective Optimization**|Xuandong Zhao et.al.|[2503.03710](http://arxiv.org/abs/2503.03710)|null|
 |**2025-03-05**|**CURVALID: Geometrically-guided Adversarial Prompt Detection**|Canaan Yung et.al.|[2503.03502](http://arxiv.org/abs/2503.03502)|null|
@@ -578,7 +582,7 @@
 |**2024-12-20**|**DiveR-CT: Diversity-enhanced Red Teaming Large Language Model Assistants with Relaxing Constraints**|Andrew Zhao et.al.|[2405.19026](http://arxiv.org/abs/2405.19026)|**[link](https://github.com/LeapLabTHU/diver-ct)**|
 |**2024-10-20**|**Quantitative Certification of Bias in Large Language Models**|Isha Chaudhary et.al.|[2405.18780](http://arxiv.org/abs/2405.18780)|**[link](https://github.com/uiuc-focal-lab/quacer-b)**|
 |**2024-11-18**|**A Theoretical Understanding of Self-Correction through In-context Alignment**|Yifei Wang et.al.|[2405.18634](http://arxiv.org/abs/2405.18634)|null|
-|**2025-02-28**|**Learning diverse attacks on large language models for robust red-teaming and safety tuning**|Seanie Lee et.al.|[2405.18540](http://arxiv.org/abs/2405.18540)|null|
+|**2025-02-28**|**Learning diverse attacks on large language models for robust red-teaming and safety tuning**|Seanie Lee et.al.|[2405.18540](http://arxiv.org/abs/2405.18540)|**[link](https://github.com/GFNOrg/red-teaming)**|
 |**2024-06-14**|**Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing**|Wei Zhao et.al.|[2405.18166](http://arxiv.org/abs/2405.18166)|**[link](https://github.com/ledllm/ledllm)**|
 |**2024-10-14**|**White-box Multimodal Jailbreaks Against Large Vision-Language Models**|Ruofan Wang et.al.|[2405.17894](http://arxiv.org/abs/2405.17894)|**[link](https://github.com/roywang021/UMK)**|
 |**2024-05-28**|**Automatic Jailbreaking of the Text-to-Image Generative AI Systems**|Minseon Kim et.al.|[2405.16567](http://arxiv.org/abs/2405.16567)|**[link](https://github.com/Kim-Minseon/APGP)**|
