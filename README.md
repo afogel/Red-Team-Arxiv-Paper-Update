@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -54,7 +54,7 @@
 |**2025-02-24**|**Dataset Featurization: Uncovering Natural Language Features through Unsupervised Data Reconstruction**|Michal Bravansky et.al.|[2502.17541](http://arxiv.org/abs/2502.17541)|null|
 |**2025-02-24**|**REINFORCE Adversarial Attacks on Large Language Models: An Adaptive, Distributional, and Semantic Objective**|Simon Geisler et.al.|[2502.17254](http://arxiv.org/abs/2502.17254)|null|
 |**2025-02-24**|**GuidedBench: Equipping Jailbreak Evaluation with Guidelines**|Ruixuan Huang et.al.|[2502.16903](http://arxiv.org/abs/2502.16903)|null|
-|**2025-03-05**|**Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System**|Saikat Barua et.al.|[2502.16750](http://arxiv.org/abs/2502.16750)|**[link](https://github.com/GitsSaikat/Guardians-Preventing-Jail-Break-Prompts)**|
+|**2025-03-11**|**Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System**|Saikat Barua et.al.|[2502.16750](http://arxiv.org/abs/2502.16750)|**[link](https://github.com/GitsSaikat/Guardians-Preventing-Jail-Break-Prompts)**|
 |**2025-02-23**|**Can Indirect Prompt Injection Attacks Be Detected and Removed?**|Yulin Chen et.al.|[2502.16580](http://arxiv.org/abs/2502.16580)|null|
 |**2025-02-22**|**Be a Multitude to Itself: A Prompt Evolution Framework for Red Teaming**|Rui Li et.al.|[2502.16109](http://arxiv.org/abs/2502.16109)|null|
 |**2025-02-19**|**A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos**|Yang Yao et.al.|[2502.15806](http://arxiv.org/abs/2502.15806)|null|
@@ -88,7 +88,7 @@
 |**2025-02-16**|**G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems**|Shilong Wang et.al.|[2502.11127](http://arxiv.org/abs/2502.11127)|**[link](https://github.com/wslong20/g-safeguard)**|
 |**2025-02-18**|**SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks**|Hongye Cao et.al.|[2502.11090](http://arxiv.org/abs/2502.11090)|**[link](https://github.com/drivetosouth/safedialbench-dataset)**|
 |**2025-02-16**|**Rewrite to Jailbreak: Discover Learnable and Transferable Implicit Harmfulness Instruction**|Yuting Huang et.al.|[2502.11084](http://arxiv.org/abs/2502.11084)|null|
-|**2025-02-19**|**Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models**|Zonghao Ying et.al.|[2502.11054](http://arxiv.org/abs/2502.11054)|**[link](https://github.com/ny1024/race)**|
+|**2025-03-11**|**Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models**|Zonghao Ying et.al.|[2502.11054](http://arxiv.org/abs/2502.11054)|**[link](https://github.com/ny1024/race)**|
 |**2025-02-16**|**Prompt Inject Detection with Generative Explanation as an Investigative Tool**|Jonathan Pan et.al.|[2502.11006](http://arxiv.org/abs/2502.11006)|null|
 |**2025-02-15**|**Distraction is All You Need for Multimodal Large Language Model Jailbreaking**|Zuopeng Yang et.al.|[2502.10794](http://arxiv.org/abs/2502.10794)|null|
 |**2025-02-14**|**Fast Proxies for LLM Robustness Evaluation**|Tim Beyer et.al.|[2502.10487](http://arxiv.org/abs/2502.10487)|null|
@@ -938,7 +938,7 @@
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
