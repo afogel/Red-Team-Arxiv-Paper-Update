@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -412,7 +412,7 @@ layout: default
 |**2024-11-29**|**Conversational Complexity for Assessing Risk in Large Language Models**|John Burden et.al.|[2409.01247](http://arxiv.org/abs/2409.01247)|null|
 |**2024-09-01**|**Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models**|Bang An et.al.|[2409.00598](http://arxiv.org/abs/2409.00598)|**[link](https://github.com/umd-huang-lab/falserefusal)**|
 |**2024-08-31**|**Testing and Evaluation of Large Language Models: Correctness, Non-Toxicity, and Fairness**|Wenxuan Wang et.al.|[2409.00551](http://arxiv.org/abs/2409.00551)|null|
-|**2024-10-17**|**PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action**|Yijia Shao et.al.|[2409.00138](http://arxiv.org/abs/2409.00138)|**[link](https://github.com/salt-nlp/privacylens)**|
+|**2025-03-14**|**PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action**|Yijia Shao et.al.|[2409.00138](http://arxiv.org/abs/2409.00138)|**[link](https://github.com/salt-nlp/privacylens)**|
 |**2024-08-29**|**Emerging Vulnerabilities in Frontier Models: Multi-Turn Jailbreak Attacks**|Tom Gibbs et.al.|[2409.00137](http://arxiv.org/abs/2409.00137)|null|
 |**2024-11-07**|**FRACTURED-SORRY-Bench: Framework for Revealing Attacks in Conversational Turns Undermining Refusal Efficacy and Defenses over SORRY-Bench (Automated Multi-shot Jailbreaks)**|Aman Priyanshu et.al.|[2408.16163](http://arxiv.org/abs/2408.16163)|null|
 |**2024-08-28**|**Red Team Redemption: A Structured Comparison of Open-Source Tools for Adversary Emulation**|Max Landauer et.al.|[2408.15645](http://arxiv.org/abs/2408.15645)|null|
