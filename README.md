@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -452,7 +452,7 @@
 |**2025-02-06**|**On Effects of Steering Latent Representation for Large Language Model Unlearning**|Dang Huu-Tien et.al.|[2408.06223](http://arxiv.org/abs/2408.06223)|**[link](https://github.com/RebelsNLU-jaist/llm-unlearning)**|
 |**2024-08-09**|**A Jailbroken GenAI Model Can Cause Substantial Harm: GenAI-powered Applications are Vulnerable to PromptWares**|Stav Cohen et.al.|[2408.05061](http://arxiv.org/abs/2408.05061)|**[link](https://github.com/stavc/promptwares)**|
 |**2024-08-12**|**Rag and Roll: An End-to-End Evaluation of Indirect Prompt Manipulations in LLM-based Application Frameworks**|Gianluca De Stefano et.al.|[2408.05025](http://arxiv.org/abs/2408.05025)|null|
-|**2024-09-13**|**h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment**|Moussa Koulako Bala Doumbouya et.al.|[2408.04811](http://arxiv.org/abs/2408.04811)|null|
+|**2025-03-16**|**h4rm3l: A language for Composable Jailbreak Attack Synthesis**|Moussa Koulako Bala Doumbouya et.al.|[2408.04811](http://arxiv.org/abs/2408.04811)|null|
 |**2024-08-08**|**Multi-Turn Context Jailbreak Attack on Large Language Models From First Principles**|Xiongtao Sun et.al.|[2408.04686](http://arxiv.org/abs/2408.04686)|null|
 |**2024-08-08**|**Compromesso! Italian Many-Shot Jailbreaks Undermine the Safety of Large Language Models**|Fabio Pernisi et.al.|[2408.04522](http://arxiv.org/abs/2408.04522)|null|
 |**2024-08-08**|**FDI: Attack Neural Code Generation Systems through User Feedback Channel**|Zhensu Sun et.al.|[2408.04194](http://arxiv.org/abs/2408.04194)|**[link](https://github.com/v587su/FDI)**|
@@ -788,7 +788,7 @@
 |**2025-01-27**|**Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models**|Jingwei Yi et.al.|[2312.14197](http://arxiv.org/abs/2312.14197)|**[link](https://github.com/microsoft/BIPIA)**|
 |**2023-12-12**|**Maatphor: Automated Variant Analysis for Prompt Injection Attacks**|Ahmed Salem et.al.|[2312.11513](http://arxiv.org/abs/2312.11513)|null|
 |**2023-12-08**|**A Red Teaming Framework for Securing AI in Maritime Autonomous Systems**|Mathew J. Walter et.al.|[2312.11500](http://arxiv.org/abs/2312.11500)|null|
-|**2024-06-18**|**JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks**|Xiaoyu Zhang et.al.|[2312.10766](http://arxiv.org/abs/2312.10766)|null|
+|**2025-03-15**|**JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks**|Xiaoyu Zhang et.al.|[2312.10766](http://arxiv.org/abs/2312.10766)|null|
 |**2023-12-16**|**Comprehensive Evaluation of ChatGPT Reliability Through Multilingual Inquiries**|Poorna Chander Reddy Puttaparthi et.al.|[2312.10524](http://arxiv.org/abs/2312.10524)|**[link](https://github.com/llm-research-777/chatgpt-jailbreaking)**|
 |**2023-12-13**|**Look Before You Leap: A Universal Emergent Decomposition of Retrieval Tasks in Language Models**|Alexandre Variengien et.al.|[2312.10091](http://arxiv.org/abs/2312.10091)|**[link](https://github.com/avariengien/causal-checker)**|
 |**2023-12-04**|**Generative AI in Writing Research Papers: A New Type of Algorithmic Bias and Uncertainty in Scholarly Work**|Rishab Jain et.al.|[2312.10057](http://arxiv.org/abs/2312.10057)|null|
@@ -952,7 +952,7 @@
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
