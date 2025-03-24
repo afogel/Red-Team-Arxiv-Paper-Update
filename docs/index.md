@@ -14,7 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-20**|**Detecting LLM-Written Peer Reviews**|Vishisht Rao et.al.|[2503.15772](http://arxiv.org/abs/2503.15772)|null|
+|**2025-03-21**|**Jailbreaking the Non-Transferable Barrier via Test-Time Data Disguising**|Yongli Xiang et.al.|[2503.17198](http://arxiv.org/abs/2503.17198)|null|
+|**2025-03-21**|**In-House Evaluation Is Not Enough: Towards Robust Third-Party Flaw Disclosure for General-Purpose AI**|Shayne Longpre et.al.|[2503.16861](http://arxiv.org/abs/2503.16861)|null|
+|**2025-03-20**|**REVAL: A Comprehension Evaluation on Reliability and Values of Large Vision-Language Models**|Jie Zhang et.al.|[2503.16566](http://arxiv.org/abs/2503.16566)|null|
+|**2025-01-24**|**OpenAI's Approach to External Red Teaming for AI Models and Systems**|Lama Ahmad et.al.|[2503.16431](http://arxiv.org/abs/2503.16431)|null|
+|**2025-03-20**|**Detecting LLM-Written Peer Reviews**|Vishisht Rao et.al.|[2503.15772](http://arxiv.org/abs/2503.15772)|**[link](https://github.com/vishisht-rao/detecting-llm-written-reviews)**|
 |**2025-03-20**|**AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration**|Andy Zhou et.al.|[2503.15754](http://arxiv.org/abs/2503.15754)|null|
 |**2025-03-19**|**A Peek Behind the Curtain: Using Step-Around Prompt Engineering to Identify Bias and Misinformation in GenAI Models**|Don Hickerson et.al.|[2503.15205](http://arxiv.org/abs/2503.15205)|null|
 |**2025-03-19**|**MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models**|Chejian Xu et.al.|[2503.14827](http://arxiv.org/abs/2503.14827)|null|
@@ -117,7 +121,7 @@ layout: default
 |**2025-03-06**|**X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability**|Xiaoya Lu et.al.|[2502.09990](http://arxiv.org/abs/2502.09990)|**[link](https://github.com/ai45lab/x-boundary)**|
 |**2025-02-13**|**Enhancing Jailbreak Attacks via Compliance-Refusal-Based Initialization**|Amit Levi et.al.|[2502.09755](http://arxiv.org/abs/2502.09755)|null|
 |**2025-02-20**|**Making Them a Malicious Database: Exploiting Query Code to Jailbreak Aligned Large Language Models**|Qingsong Zou et.al.|[2502.09723](http://arxiv.org/abs/2502.09723)|**[link](https://github.com/horizonsinzqs/queryattack)**|
-|**2025-02-18**|**The Hidden Dimensions of LLM Alignment: A Multi-Dimensional Safety Analysis**|Wenbo Pan et.al.|[2502.09674](http://arxiv.org/abs/2502.09674)|null|
+|**2025-02-18**|**The Hidden Dimensions of LLM Alignment: A Multi-Dimensional Safety Analysis**|Wenbo Pan et.al.|[2502.09674](http://arxiv.org/abs/2502.09674)|**[link](https://github.com/bmpixel/safety-residual-space)**|
 |**2025-02-09**|**Jailbreaking to Jailbreak**|Jeremy Kritz et.al.|[2502.09638](http://arxiv.org/abs/2502.09638)|null|
 |**2025-02-13**|**FLAME: Flexible LLM-Assisted Moderation Engine**|Ivan Bakulin et.al.|[2502.09175](http://arxiv.org/abs/2502.09175)|null|
 |**2025-02-14**|**RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage**|Peter Yong Zhong et.al.|[2502.08966](http://arxiv.org/abs/2502.08966)|null|
@@ -749,6 +753,7 @@ layout: default
 |**2024-02-13**|**Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning**|Gelei Deng et.al.|[2402.08416](http://arxiv.org/abs/2402.08416)|null|
 |**2024-09-25**|**StruQ: Defending Against Prompt Injection with Structured Queries**|Sizhe Chen et.al.|[2402.06363](http://arxiv.org/abs/2402.06363)|**[link](https://github.com/sizhe-chen/struq)**|
 |**2024-10-31**|**Fight Back Against Jailbreaking via Prompt Adversarial Tuning**|Yichuan Mo et.al.|[2402.06255](http://arxiv.org/abs/2402.06255)|**[link](https://github.com/pku-ml/pat)**|
+|**2025-03-20**|**EmojiPrompt: Generative Prompt Obfuscation for Privacy-Preserving Communication with Cloud-based LLMs**|Sam Lin et.al.|[2402.05868](http://arxiv.org/abs/2402.05868)|**[link](https://github.com/agiresearch/emojicrypt)**|
 |**2024-02-08**|**In-Context Learning Can Re-learn Forbidden Tasks**|Sophie Xhonneux et.al.|[2402.05723](http://arxiv.org/abs/2402.05723)|null|
 |**2024-12-16**|**Comprehensive Assessment of Jailbreak Attacks Against LLMs**|Junjie Chu et.al.|[2402.05668](http://arxiv.org/abs/2402.05668)|**[link](https://github.com/TrustAIRLab/Comprehensive_Jailbreak_Assessment)**|
 |**2024-02-08**|**Rapid Optimization for Jailbreaking LLMs via Subconscious Exploitation and Echopraxia**|Guangyu Shen et.al.|[2402.05467](http://arxiv.org/abs/2402.05467)|**[link](https://github.com/solidshen/ripple_official)**|
