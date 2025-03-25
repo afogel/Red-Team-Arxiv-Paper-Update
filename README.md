@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
+|**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|null|
+|**2025-03-23**|**Metaphor-based Jailbreaking Attacks on Text-to-Image Models**|Chenyu Zhang et.al.|[2503.17987](http://arxiv.org/abs/2503.17987)|null|
+|**2025-03-23**|**Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts**|Sheng Ouyang et.al.|[2503.17953](http://arxiv.org/abs/2503.17953)|null|
+|**2025-03-23**|**STShield: Single-Token Sentinel for Real-Time Jailbreak Detection in Large Language Models**|Xunguang Wang et.al.|[2503.17932](http://arxiv.org/abs/2503.17932)|null|
 |**2025-03-21**|**Jailbreaking the Non-Transferable Barrier via Test-Time Data Disguising**|Yongli Xiang et.al.|[2503.17198](http://arxiv.org/abs/2503.17198)|null|
 |**2025-03-21**|**In-House Evaluation Is Not Enough: Towards Robust Third-Party Flaw Disclosure for General-Purpose AI**|Shayne Longpre et.al.|[2503.16861](http://arxiv.org/abs/2503.16861)|null|
 |**2025-03-20**|**REVAL: A Comprehension Evaluation on Reliability and Values of Large Vision-Language Models**|Jie Zhang et.al.|[2503.16566](http://arxiv.org/abs/2503.16566)|null|
