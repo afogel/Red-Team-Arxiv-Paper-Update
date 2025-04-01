@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -323,7 +323,7 @@ layout: default
 |**2024-11-27**|**Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models**|Yiqi Yang et.al.|[2410.23558](http://arxiv.org/abs/2410.23558)|null|
 |**2024-10-28**|**Systematically Analyzing Prompt Injection Vulnerabilities in Diverse LLM Architectures**|Victoria Benjamin et.al.|[2410.23308](http://arxiv.org/abs/2410.23308)|null|
 |**2024-10-30**|**ProTransformer: Robustify Transformers via Plug-and-Play Paradigm**|Zhichao Hou et.al.|[2410.23182](http://arxiv.org/abs/2410.23182)|**[link](https://github.com/chris-hzc/ProTransformer)**|
-|**2024-11-24**|**InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models**|Hao Li et.al.|[2410.22770](http://arxiv.org/abs/2410.22770)|**[link](https://github.com/safolab-wisc/injecguard)**|
+|**2025-03-30**|**InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models**|Hao Li et.al.|[2410.22770](http://arxiv.org/abs/2410.22770)|**[link](https://github.com/safolab-wisc/injecguard)**|
 |**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|**[link](https://github.com/AhsanAyub/malicious-prompt-detection)**|
 |**2024-10-29**|**Benchmarking LLM Guardrails in Handling Multilingual Toxicity**|Yahan Yang et.al.|[2410.22153](http://arxiv.org/abs/2410.22153)|null|
 |**2024-10-29**|**AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**|Vishal Kumar et.al.|[2410.22143](http://arxiv.org/abs/2410.22143)|null|
