@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,7 +33,7 @@
 |**2025-03-27**|**Harnessing Chain-of-Thought Metadata for Task Routing and Adversarial Prompt Detection**|Ryan Marinelli et.al.|[2503.21464](http://arxiv.org/abs/2503.21464)|**[link](https://github.com/rymarinelli/number_of_thoughts)**|
 |**2025-03-26**|**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**|Joonhyun Jeong et.al.|[2503.20823](http://arxiv.org/abs/2503.20823)|null|
 |**2025-03-26**|**Iterative Prompting with Persuasion Skills in Jailbreaking Large Language Models**|Shih-Wen Ke et.al.|[2503.20320](http://arxiv.org/abs/2503.20320)|null|
-|**2025-03-26**|**sudo rm -rf agentic_security**|Sejin Lee et.al.|[2503.20279](http://arxiv.org/abs/2503.20279)|**[link](https://github.com/AIM-Intelligence/SUDO)**|
+|**2025-04-04**|**sudo rm -rf agentic_security**|Sejin Lee et.al.|[2503.20279](http://arxiv.org/abs/2503.20279)|**[link](https://github.com/AIM-Intelligence/SUDO)**|
 |**2025-03-25**|**Red Teaming with Artificial Intelligence-Driven Cyberattacks: A Scoping Review**|Mays Al-Azzawi et.al.|[2503.19626](http://arxiv.org/abs/2503.19626)|null|
 |**2025-03-24**|**MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks**|Wenhao You et.al.|[2503.19134](http://arxiv.org/abs/2503.19134)|null|
 |**2025-03-23**|**SRMIR: Shadow Reward Models Based on Introspective Reasoning for LLM Alignment**|Ruoxi Cheng et.al.|[2503.18991](http://arxiv.org/abs/2503.18991)|null|
@@ -260,7 +260,7 @@
 |**2024-12-14**|**Towards Action Hijacking of Large Language Model-based Agent**|Yuyang Zhang et.al.|[2412.10807](http://arxiv.org/abs/2412.10807)|null|
 |**2024-12-10**|**Look Before You Leap: Enhancing Attention and Vigilance Regarding Harmful Content with GuidelineLLM**|Shaoqing Zhang et.al.|[2412.10423](http://arxiv.org/abs/2412.10423)|**[link](https://github.com/sqzhang-lazy/guidelinellm)**|
 |**2024-12-13**|**AdvPrefix: An Objective for Nuanced LLM Jailbreaks**|Sicheng Zhu et.al.|[2412.10321](http://arxiv.org/abs/2412.10321)|**[link](https://github.com/facebookresearch/jailbreak-objectives)**|
-|**2024-12-12**|**AI Red-Teaming is a Sociotechnical System. Now What?**|Tarleton Gillespie et.al.|[2412.09751](http://arxiv.org/abs/2412.09751)|null|
+|**2025-04-03**|**AI red-teaming is a sociotechnical challenge: on values, labor, and harms**|Tarleton Gillespie et.al.|[2412.09751](http://arxiv.org/abs/2412.09751)|null|
 |**2025-02-08**|**Obfuscated Activations Bypass LLM Latent-Space Defenses**|Luke Bailey et.al.|[2412.09565](http://arxiv.org/abs/2412.09565)|null|
 |**2024-12-16**|**Exploiting the Index Gradients for Optimization-Based Jailbreaking on Large Language Models**|Jiahui Li et.al.|[2412.08615](http://arxiv.org/abs/2412.08615)|**[link](https://github.com/jiah-li/magic)**|
 |**2024-12-11**|**AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models**|Mintong Kang et.al.|[2412.08608](http://arxiv.org/abs/2412.08608)|null|
@@ -440,7 +440,7 @@
 |**2024-09-23**|**Attack Atlas: A Practitioner's Perspective on Challenges and Pitfalls in Red Teaming GenAI**|Ambrish Rawat et.al.|[2409.15398](http://arxiv.org/abs/2409.15398)|null|
 |**2024-09-18**|**Multitask Mayhem: Unveiling and Mitigating Safety Gaps in LLMs Fine-tuning**|Essa Jan et.al.|[2409.15361](http://arxiv.org/abs/2409.15361)|null|
 |**2025-03-03**|**PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs**|Xueluan Gong et.al.|[2409.14866](http://arxiv.org/abs/2409.14866)|**[link](https://github.com/aaFrostnova/Papillon)**|
-|**2024-09-23**|**PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs**|Jiahao Yu et.al.|[2409.14729](http://arxiv.org/abs/2409.14729)|**[link](https://github.com/sherdencooper/PromptFuzz)**|
+|**2025-04-03**|**PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs**|Jiahao Yu et.al.|[2409.14729](http://arxiv.org/abs/2409.14729)|**[link](https://github.com/sherdencooper/PromptFuzz)**|
 |**2024-10-03**|**PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach**|Zhihao Lin et.al.|[2409.14177](http://arxiv.org/abs/2409.14177)|null|
 |**2024-10-29**|**Towards Safe Multilingual Frontier AI**|Artūrs Kanepajs et.al.|[2409.13708](http://arxiv.org/abs/2409.13708)|**[link](https://github.com/akanepajs/multilingual)**|
 |**2024-09-20**|**Applying Pre-trained Multilingual BERT in Embeddings for Improved Malicious Prompt Injection Attacks Detection**|Md Abdur Rahman et.al.|[2409.13331](http://arxiv.org/abs/2409.13331)|null|
@@ -992,7 +992,7 @@
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
