@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887](http://arxiv.org/abs/2504.07887)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|
+|**2025-04-10**|**Defense against Prompt Injection Attacks via Mixture of Encodings**|Ruiyi Zhang et.al.|[2504.07467](http://arxiv.org/abs/2504.07467)|null|
+|**2025-04-10**|**Achilles Heel of Distributed Multi-Agent Systems**|Yiting Zhang et.al.|[2504.07461](http://arxiv.org/abs/2504.07461)|null|
+|**2025-03-20**|**How Robust Are Router-LLMs? Analysis of the Fragility of LLM Routing Capabilities**|Aly M. Kassem et.al.|[2504.07113](http://arxiv.org/abs/2504.07113)|null|
 |**2025-04-09**|**Bypassing Safety Guardrails in LLMs Using Humor**|Pedro Cisneros-Velarde et.al.|[2504.06577](http://arxiv.org/abs/2504.06577)|null|
 |**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|null|
 |**2025-04-08**|**Separator Injection Attack: Uncovering Dialogue Biases in Large Language Models Caused by Role Separators**|Xitao Li et.al.|[2504.05689](http://arxiv.org/abs/2504.05689)|null|
@@ -23,11 +27,11 @@ layout: default
 |**2025-04-08**|**Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models**|Yubo Li et.al.|[2504.04717](http://arxiv.org/abs/2504.04717)|null|
 |**2025-04-06**|**StyleRec: A Benchmark Dataset for Prompt Recovery in Writing Style Transformation**|Shenyang Liu et.al.|[2504.04373](http://arxiv.org/abs/2504.04373)|null|
 |**2025-04-08**|**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**|Yi Nian et.al.|[2504.03770](http://arxiv.org/abs/2504.03770)|null|
-|**2025-04-04**|**RWKVTTS: Yet another TTS based on RWKV-7**|Lin yueyu et.al.|[2504.03289](http://arxiv.org/abs/2504.03289)|null|
+|**2025-04-04**|**RWKVTTS: Yet another TTS based on RWKV-7**|Lin yueyu et.al.|[2504.03289](http://arxiv.org/abs/2504.03289)|**[link](https://github.com/yynil/rwkvtts)**|
 |**2025-04-04**|**Multi-lingual Multi-turn Automated Red Teaming for LLMs**|Abhishek Singhania et.al.|[2504.03174](http://arxiv.org/abs/2504.03174)|null|
 |**2025-04-03**|**More is Less: The Pitfalls of Multi-Model Synthetic Preference Data in DPO Safety Alignment**|Yifan Wang et.al.|[2504.02193](http://arxiv.org/abs/2504.02193)|null|
 |**2025-04-02**|**Evolving Security in LLMs: A Study of Jailbreak Attacks and Defenses**|Zhengchun Shang et.al.|[2504.02080](http://arxiv.org/abs/2504.02080)|null|
-|**2025-04-02**|**Representation Bending for Large Language Model Safety**|Ashkan Yousefpour et.al.|[2504.01550](http://arxiv.org/abs/2504.01550)|null|
+|**2025-04-02**|**Representation Bending for Large Language Model Safety**|Ashkan Yousefpour et.al.|[2504.01550](http://arxiv.org/abs/2504.01550)|**[link](https://github.com/aim-intelligence/repbend)**|
 |**2025-04-02**|**LightDefense: A Lightweight Uncertainty-Driven Defense against Jailbreaks via Shifted Token Distribution**|Zhuoran Yang et.al.|[2504.01533](http://arxiv.org/abs/2504.01533)|null|
 |**2025-04-07**|**PiCo: Jailbreaking Multimodal Large Language Models via $\textbf{Pi}$ctorial $\textbf{Co}$ de Contextualization**|Aofan Liu et.al.|[2504.01444](http://arxiv.org/abs/2504.01444)|null|
 |**2025-04-07**|**Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks**|Jiawei Wang et.al.|[2504.01308](http://arxiv.org/abs/2504.01308)|**[link](https://github.com/jarvisustc/diffpure-robustvlm)**|
@@ -146,7 +150,7 @@ layout: default
 |**2025-02-17**|**Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training**|Fenghua Weng et.al.|[2502.11455](http://arxiv.org/abs/2502.11455)|null|
 |**2025-02-17**|**Detecting and Filtering Unsafe Training Data via Data Attribution**|Yijun Pan et.al.|[2502.11411](http://arxiv.org/abs/2502.11411)|null|
 |**2025-02-17**|**CCJA: Context-Coherent Jailbreak Attack for Aligned Large Language Models**|Guanghao Zhou et.al.|[2502.11379](http://arxiv.org/abs/2502.11379)|null|
-|**2025-02-16**|**G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems**|Shilong Wang et.al.|[2502.11127](http://arxiv.org/abs/2502.11127)|**[link](https://github.com/wslong20/g-safeguard)**|
+|**2025-02-16**|**G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems**|Shilong Wang et.al.|[2502.11127](http://arxiv.org/abs/2502.11127)|null|
 |**2025-02-18**|**SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks**|Hongye Cao et.al.|[2502.11090](http://arxiv.org/abs/2502.11090)|**[link](https://github.com/drivetosouth/safedialbench-dataset)**|
 |**2025-02-16**|**Rewrite to Jailbreak: Discover Learnable and Transferable Implicit Harmfulness Instruction**|Yuting Huang et.al.|[2502.11084](http://arxiv.org/abs/2502.11084)|null|
 |**2025-03-11**|**Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models**|Zonghao Ying et.al.|[2502.11054](http://arxiv.org/abs/2502.11054)|**[link](https://github.com/ny1024/race)**|
