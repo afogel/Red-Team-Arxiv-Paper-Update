@@ -19,7 +19,7 @@ layout: default
 |**2025-04-10**|**Achilles Heel of Distributed Multi-Agent Systems**|Yiting Zhang et.al.|[2504.07461](http://arxiv.org/abs/2504.07461)|null|
 |**2025-03-20**|**How Robust Are Router-LLMs? Analysis of the Fragility of LLM Routing Capabilities**|Aly M. Kassem et.al.|[2504.07113](http://arxiv.org/abs/2504.07113)|null|
 |**2025-04-09**|**Bypassing Safety Guardrails in LLMs Using Humor**|Pedro Cisneros-Velarde et.al.|[2504.06577](http://arxiv.org/abs/2504.06577)|null|
-|**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|null|
+|**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|**[link](https://github.com/fhdnskfbeuv/attackipa)**|
 |**2025-04-08**|**Separator Injection Attack: Uncovering Dialogue Biases in Large Language Models Caused by Role Separators**|Xitao Li et.al.|[2504.05689](http://arxiv.org/abs/2504.05689)|null|
 |**2025-04-08**|**Sugar-Coated Poison: Benign Generation Unlocks LLM Jailbreaking**|Yu-Hang Wu et.al.|[2504.05652](http://arxiv.org/abs/2504.05652)|null|
 |**2025-04-07**|**How to evaluate control measures for LLM agents? A trajectory from today to superintelligence**|Tomek Korbak et.al.|[2504.05259](http://arxiv.org/abs/2504.05259)|null|
@@ -76,7 +76,7 @@ layout: default
 |**2025-03-16**|**Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**|Andy Zhou et.al.|[2503.10619](http://arxiv.org/abs/2503.10619)|null|
 |**2025-03-13**|**ASIDE: Architectural Separation of Instructions and Data in Language Models**|Egor Zverev et.al.|[2503.10566](http://arxiv.org/abs/2503.10566)|null|
 |**2025-03-13**|**Red Teaming Contemporary AI Models: Insights from Spanish and Basque Perspectives**|Miguel Romero-Arjona et.al.|[2503.10192](http://arxiv.org/abs/2503.10192)|null|
-|**2025-04-05**|**CyberLLMInstruct: A New Dataset for Analysing Safety of Fine-Tuned LLMs Using Cyber Security Data**|Adel ElZemity et.al.|[2503.09334](http://arxiv.org/abs/2503.09334)|null|
+|**2025-04-05**|**CyberLLMInstruct: A New Dataset for Analysing Safety of Fine-Tuned LLMs Using Cyber Security Data**|Adel ElZemity et.al.|[2503.09334](http://arxiv.org/abs/2503.09334)|**[link](https://github.com/adelsamir01/cyberllminstruct)**|
 |**2025-03-12**|**Probing Latent Subspaces in LLM for AI Security: Identifying and Manipulating Adversarial States**|Xin Wei Chia et.al.|[2503.09066](http://arxiv.org/abs/2503.09066)|null|
 |**2025-03-12**|**JBFuzz: Jailbreaking LLMs Efficiently and Effectively Using Fuzzing**|Vasudev Gohil et.al.|[2503.08990](http://arxiv.org/abs/2503.08990)|null|
 |**2025-04-08**|**Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs**|Ariba Khan et.al.|[2503.08688](http://arxiv.org/abs/2503.08688)|**[link](https://github.com/ariba-k/llm-cultural-alignment-evaluation)**|
