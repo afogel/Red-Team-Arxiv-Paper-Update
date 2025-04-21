@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**DETAM: Defending LLMs Against Jailbreak Attacks via Targeted Attention Modification**|Yu Li et.al.|[2504.13562](http://arxiv.org/abs/2504.13562)|null|
+|**2025-04-15**|**X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents**|Salman Rahman et.al.|[2504.13203](http://arxiv.org/abs/2504.13203)|null|
+|**2025-04-15**|**Concept Enhancement Engineering: A Lightweight and Efficient Robust Defense Against Jailbreak Attacks in Embodied AI**|Jirui Yang et.al.|[2504.13201](http://arxiv.org/abs/2504.13201)|null|
 |**2025-04-17**|**GraphAttack: Exploiting Representational Blindspots in LLM Safety Mechanisms**|Sinan He et.al.|[2504.13052](http://arxiv.org/abs/2504.13052)|null|
 |**2025-04-17**|**ZeroSumEval: Scaling LLM Evaluation with Inter-Model Competition**|Haidar Khan et.al.|[2504.12562](http://arxiv.org/abs/2504.12562)|**[link](https://github.com/facebookresearch/zerosumeval)**|
 |**2025-04-17**|**ELAB: Extensive LLM Alignment Benchmark in Persian Language**|Zahra Pourbahman et.al.|[2504.12553](http://arxiv.org/abs/2504.12553)|null|
