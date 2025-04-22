@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -77,7 +77,7 @@ layout: default
 |**2025-03-23**|**SRMIR: Shadow Reward Models Based on Introspective Reasoning for LLM Alignment**|Ruoxi Cheng et.al.|[2503.18991](http://arxiv.org/abs/2503.18991)|null|
 |**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
 |**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|null|
-|**2025-03-23**|**Metaphor-based Jailbreaking Attacks on Text-to-Image Models**|Chenyu Zhang et.al.|[2503.17987](http://arxiv.org/abs/2503.17987)|null|
+|**2025-04-19**|**Reason2Attack: Jailbreaking Text-to-Image Models via LLM Reasoning**|Chenyu Zhang et.al.|[2503.17987](http://arxiv.org/abs/2503.17987)|null|
 |**2025-03-23**|**Smoke and Mirrors: Jailbreaking LLM-based Code Generation via Implicit Malicious Prompts**|Sheng Ouyang et.al.|[2503.17953](http://arxiv.org/abs/2503.17953)|null|
 |**2025-03-23**|**STShield: Single-Token Sentinel for Real-Time Jailbreak Detection in Large Language Models**|Xunguang Wang et.al.|[2503.17932](http://arxiv.org/abs/2503.17932)|null|
 |**2025-03-21**|**Jailbreaking the Non-Transferable Barrier via Test-Time Data Disguising**|Yongli Xiang et.al.|[2503.17198](http://arxiv.org/abs/2503.17198)|null|
@@ -617,7 +617,7 @@ layout: default
 |**2024-11-02**|**Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding**|Haneul Yoo et.al.|[2406.15481](http://arxiv.org/abs/2406.15481)|**[link](https://github.com/haneul-yoo/csrt)**|
 |**2024-06-21**|**From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**|Siyuan Wang et.al.|[2406.14859](http://arxiv.org/abs/2406.14859)|null|
 |**2024-07-01**|**Adversaries Can Misuse Combinations of Safe Models**|Erik Jones et.al.|[2406.14595](http://arxiv.org/abs/2406.14595)|null|
-|**2025-01-17**|**Jailbreaking as a Reward Misspecification Problem**|Zhihui Xie et.al.|[2406.14393](http://arxiv.org/abs/2406.14393)|**[link](https://github.com/zhxieml/remiss-jailbreak)**|
+|**2025-04-19**|**Jailbreaking as a Reward Misspecification Problem**|Zhihui Xie et.al.|[2406.14393](http://arxiv.org/abs/2406.14393)|**[link](https://github.com/zhxieml/remiss-jailbreak)**|
 |**2024-06-20**|**Finding Safety Neurons in Large Language Models**|Jianhui Chen et.al.|[2406.14144](http://arxiv.org/abs/2406.14144)|null|
 |**2024-06-20**|**Prompt Injection Attacks in Defended Systems**|Daniil Khomsky et.al.|[2406.14048](http://arxiv.org/abs/2406.14048)|null|
 |**2025-01-27**|**Jailbreaking Large Language Models Through Alignment Vulnerabilities in Out-of-Distribution Settings**|Yue Huang et.al.|[2406.13662](http://arxiv.org/abs/2406.13662)|**[link](https://github.com/HowieHwong/ObscurePrompt)**|
