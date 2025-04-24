@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -376,7 +376,7 @@ layout: default
 |**2025-02-18**|**Emoji Attack: Enhancing Jailbreak Attacks Against Judge LLM Detection**|Zhipeng Wei et.al.|[2411.01077](http://arxiv.org/abs/2411.01077)|**[link](https://github.com/zhipeng-wei/EmojiAttack)**|
 |**2025-03-08**|**IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves**|Ruofan Wang et.al.|[2411.00827](http://arxiv.org/abs/2411.00827)|null|
 |**2025-02-25**|**Defense Against Prompt Injection Attack by Leveraging Attack Techniques**|Yulin Chen et.al.|[2411.00459](http://arxiv.org/abs/2411.00459)|null|
-|**2024-11-01**|**Attention Tracker: Detecting Prompt Injection Attacks in LLMs**|Kuo-Han Hung et.al.|[2411.00348](http://arxiv.org/abs/2411.00348)|null|
+|**2025-04-23**|**Attention Tracker: Detecting Prompt Injection Attacks in LLMs**|Kuo-Han Hung et.al.|[2411.00348](http://arxiv.org/abs/2411.00348)|null|
 |**2024-11-26**|**Desert Camels and Oil Sheikhs: Arab-Centric Red Teaming of Frontier LLMs**|Muhammed Saeed et.al.|[2410.24049](http://arxiv.org/abs/2410.24049)|null|
 |**2024-10-31**|**Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models**|Hao Yang et.al.|[2410.23861](http://arxiv.org/abs/2410.23861)|**[link](https://github.com/YangHao97/RedteamAudioLMMs)**|
 |**2024-10-31**|**Adversarial Attacks of Vision Tasks in the Past 10 Years: A Survey**|Chiyu Zhang et.al.|[2410.23687](http://arxiv.org/abs/2410.23687)|null|
