@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2025-04-25**|**RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models**|Bang An et.al.|[2504.18041](http://arxiv.org/abs/2504.18041)|null|
 |**2025-04-23**|**Amplified Vulnerabilities: Structured Jailbreak Attacks on LLM-based Multi-Agent Debate**|Senmao Qi et.al.|[2504.16489](http://arxiv.org/abs/2504.16489)|null|
 |**2025-04-20**|**Breaking the Prompt Wall (I): A Real-World Case Study of Attacking ChatGPT via Lightweight Prompt Injection**|Xiangyu Chang et.al.|[2504.16125](http://arxiv.org/abs/2504.16125)|null|
-|**2025-04-22**|**T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models**|Siyuan Liang et.al.|[2504.15512](http://arxiv.org/abs/2504.15512)|null|
+|**2025-04-26**|**T2VShield: Model-Agnostic Jailbreak Defense for Text-to-Video Models**|Siyuan Liang et.al.|[2504.15512](http://arxiv.org/abs/2504.15512)|null|
 |**2025-04-21**|**MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning**|Yahan Yang et.al.|[2504.15241](http://arxiv.org/abs/2504.15241)|null|
 |**2025-04-21**|**RainbowPlus: Enhancing Adversarial Prompt Generation via Evolutionary Quality-Diversity Search**|Quy-Anh Dang et.al.|[2504.15047](http://arxiv.org/abs/2504.15047)|**[link](https://github.com/knoveleng/rainbowplus)**|
 |**2025-04-20**|**LLM-Enabled In-Context Learning for Data Collection Scheduling in UAV-assisted Sensor Networks**|Yousef Emami et.al.|[2504.14556](http://arxiv.org/abs/2504.14556)|null|
@@ -111,7 +111,7 @@
 |**2025-03-14**|**Align in Depth: Defending Jailbreak Attacks via Progressive Answer Detoxification**|Yingjie Zhang et.al.|[2503.11185](http://arxiv.org/abs/2503.11185)|null|
 |**2025-03-21**|**TAIJI: Textual Anchoring for Immunizing Jailbreak Images in Vision Language Models**|Xiangyu Yin et.al.|[2503.10872](http://arxiv.org/abs/2503.10872)|null|
 |**2025-03-21**|**CeTAD: Towards Certified Toxicity-Aware Distance in Vision Language Models**|Xiangyu Yin et.al.|[2503.10661](http://arxiv.org/abs/2503.10661)|null|
-|**2025-03-16**|**Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**|Andy Zhou et.al.|[2503.10619](http://arxiv.org/abs/2503.10619)|null|
+|**2025-04-26**|**Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**|Andy Zhou et.al.|[2503.10619](http://arxiv.org/abs/2503.10619)|null|
 |**2025-04-21**|**ASIDE: Architectural Separation of Instructions and Data in Language Models**|Egor Zverev et.al.|[2503.10566](http://arxiv.org/abs/2503.10566)|null|
 |**2025-03-13**|**Red Teaming Contemporary AI Models: Insights from Spanish and Basque Perspectives**|Miguel Romero-Arjona et.al.|[2503.10192](http://arxiv.org/abs/2503.10192)|null|
 |**2025-04-05**|**CyberLLMInstruct: A New Dataset for Analysing Safety of Fine-Tuned LLMs Using Cyber Security Data**|Adel ElZemity et.al.|[2503.09334](http://arxiv.org/abs/2503.09334)|**[link](https://github.com/adelsamir01/cyberllminstruct)**|
@@ -758,7 +758,7 @@
 |**2024-08-20**|**What is in Your Safe Data? Identifying Benign Data that Breaks Safety**|Luxi He et.al.|[2404.01099](http://arxiv.org/abs/2404.01099)|**[link](https://github.com/princeton-nlp/benign-data-breaks-safety)**|
 |**2024-11-26**|**Against The Achilles' Heel: A Survey on Red Teaming for Generative Models**|Lizhi Lin et.al.|[2404.00629](http://arxiv.org/abs/2404.00629)|**[link](https://github.com/Libr-AI/OpenRedTeaming)**|
 |**2024-12-27**|**Aurora-M: Open Source Continual Pre-training for Multilingual Language and Code**|Taishi Nakamura et.al.|[2404.00399](http://arxiv.org/abs/2404.00399)|null|
-|**2024-12-08**|**Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation**|Yutong He et.al.|[2403.19103](http://arxiv.org/abs/2403.19103)|null|
+|**2025-04-28**|**Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation**|Yutong He et.al.|[2403.19103](http://arxiv.org/abs/2403.19103)|null|
 |**2024-03-27**|**IterAlign: Iterative Constitutional Alignment of Large Language Models**|Xiusi Chen et.al.|[2403.18341](http://arxiv.org/abs/2403.18341)|null|
 |**2025-03-03**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|**[link](https://github.com/shijiawenwen/judgedeceiver)**|
 |**2024-09-30**|**Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models**|Zhiyuan Yu et.al.|[2403.17336](http://arxiv.org/abs/2403.17336)|null|
@@ -1044,7 +1044,7 @@
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
