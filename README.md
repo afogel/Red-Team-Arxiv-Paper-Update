@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**ACE: A Security Architecture for LLM-Integrated App Systems**|Evan Li et.al.|[2504.20984](http://arxiv.org/abs/2504.20984)|null|
+|**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|null|
+|**2025-04-29**|**When Testing AI Tests Us: Safeguarding Mental Health on the Digital Frontlines**|Sachin R. Pendse et.al.|[2504.20910](http://arxiv.org/abs/2504.20910)|null|
+|**2025-04-29**|**Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption**|Wenxiao Wang et.al.|[2504.20769](http://arxiv.org/abs/2504.20769)|null|
+|**2025-04-29**|**Token-Efficient Prompt Injection Attack: Provoking Cessation in LLM Reasoning via Adaptive Token Compression**|Yu Cui et.al.|[2504.20493](http://arxiv.org/abs/2504.20493)|null|
+|**2025-04-29**|**Robustness via Referencing: Defending against Prompt Injection Attacks by Referencing the Executed Instruction**|Yulin Chen et.al.|[2504.20472](http://arxiv.org/abs/2504.20472)|null|
+|**2025-04-29**|**Inception: Jailbreak the Memory Mechanism of Text-to-Image Generation Systems**|Shiqian Zhao et.al.|[2504.20376](http://arxiv.org/abs/2504.20376)|null|
+|**2025-04-25**|**Understanding and Mitigating Risks of Generative AI in Financial Services**|Sebastian Gehrmann et.al.|[2504.20086](http://arxiv.org/abs/2504.20086)|null|
 |**2025-04-29**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855](http://arxiv.org/abs/2504.19855)|null|
 |**2025-04-28**|**Prompt Injection Attack to Tool Selection in LLM Agents**|Jiawen Shi et.al.|[2504.19793](http://arxiv.org/abs/2504.19793)|null|
 |**2025-04-28**|**$\texttt{SAGE}$ : A Generic Framework for LLM Safety Evaluation**|Madhur Jindal et.al.|[2504.19674](http://arxiv.org/abs/2504.19674)|**[link](https://github.com/Madhur-1/SageLLMSafetyEval)**|
