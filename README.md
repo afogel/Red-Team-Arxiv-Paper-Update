@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,10 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855](http://arxiv.org/abs/2504.19855)|null|
+|**2025-04-29**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855](http://arxiv.org/abs/2504.19855)|null|
 |**2025-04-28**|**Prompt Injection Attack to Tool Selection in LLM Agents**|Jiawen Shi et.al.|[2504.19793](http://arxiv.org/abs/2504.19793)|null|
 |**2025-04-28**|**$\texttt{SAGE}$ : A Generic Framework for LLM Safety Evaluation**|Madhur Jindal et.al.|[2504.19674](http://arxiv.org/abs/2504.19674)|**[link](https://github.com/Madhur-1/SageLLMSafetyEval)**|
-|**2025-04-28**|**Security Steerability is All You Need**|Itay Hazan et.al.|[2504.19521](http://arxiv.org/abs/2504.19521)|null|
+|**2025-04-29**|**Security Steerability is All You Need**|Itay Hazan et.al.|[2504.19521](http://arxiv.org/abs/2504.19521)|null|
 |**2025-04-28**|**JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift**|Julien Piet et.al.|[2504.19440](http://arxiv.org/abs/2504.19440)|null|
 |**2025-04-27**|**Small Models, Big Tasks: An Exploratory Empirical Study on Small Language Models for Function Calling**|Ishan Kavathekar et.al.|[2504.19277](http://arxiv.org/abs/2504.19277)|null|
 |**2025-04-26**|**Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs**|Mohammad Akbar-Tajari et.al.|[2504.19019](http://arxiv.org/abs/2504.19019)|null|
@@ -287,7 +287,7 @@
 |**2025-01-02**|**Safeguarding Large Language Models in Real-time with Tunable Safety-Performance Trade-offs**|Joao Fonseca et.al.|[2501.02018](http://arxiv.org/abs/2501.02018)|null|
 |**2025-01-09**|**Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions**|Rachneet Sachdeva et.al.|[2501.01872](http://arxiv.org/abs/2501.01872)|**[link](https://github.com/ukplab/poate-attack)**|
 |**2025-01-03**|**Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large Language Models**|Yanjiang Liu et.al.|[2501.01830](http://arxiv.org/abs/2501.01830)|null|
-|**2025-01-09**|**WeAudit: Scaffolding User Auditors and AI Practitioners in Auditing Generative AI**|Wesley Hanwen Deng et.al.|[2501.01397](http://arxiv.org/abs/2501.01397)|null|
+|**2025-04-29**|**WeAudit: Scaffolding User Auditors and AI Practitioners in Auditing Generative AI**|Wesley Hanwen Deng et.al.|[2501.01397](http://arxiv.org/abs/2501.01397)|null|
 |**2025-01-02**|**CySecBench: Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models**|Johan Wahréus et.al.|[2501.01335](http://arxiv.org/abs/2501.01335)|**[link](https://github.com/cysecbench/dataset)**|
 |**2024-12-29**|**Adversarial Negotiation Dynamics in Generative Language Models**|Arinbjörn Kolbeinsson et.al.|[2501.00069](http://arxiv.org/abs/2501.00069)|null|
 |**2024-12-28**|**LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models**|Miao Yu et.al.|[2501.00055](http://arxiv.org/abs/2501.00055)|**[link](https://github.com/Ymm-cll/LLM-Virus)**|
@@ -1053,7 +1053,7 @@
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
