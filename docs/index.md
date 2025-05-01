@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -52,7 +52,7 @@ layout: default
 |**2025-04-16**|**Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails**|William Hackett et.al.|[2504.11168](http://arxiv.org/abs/2504.11168)|null|
 |**2025-04-15**|**Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models**|Jiangtao Liu et.al.|[2504.11106](http://arxiv.org/abs/2504.11106)|null|
 |**2025-04-14**|**The Jailbreak Tax: How Useful are Your Jailbreak Outputs?**|Kristina Nikolić et.al.|[2504.10694](http://arxiv.org/abs/2504.10694)|**[link](https://github.com/ethz-spylab/jailbreak-tax)**|
-|**2025-04-14**|**Demo: ViolentUTF as An Accessible Platform for Generative AI Red Teaming**|Tam n. Nguyen et.al.|[2504.10603](http://arxiv.org/abs/2504.10603)|null|
+|**2025-04-29**|**Demo: ViolentUTF as An Accessible Platform for Generative AI Red Teaming**|Tam n. Nguyen et.al.|[2504.10603](http://arxiv.org/abs/2504.10603)|null|
 |**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465](http://arxiv.org/abs/2504.10465)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2025-04-16**|**LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks**|Soumyadeep Pal et.al.|[2504.10185](http://arxiv.org/abs/2504.10185)|null|
 |**2025-04-14**|**RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability**|Yichi Zhang et.al.|[2504.10081](http://arxiv.org/abs/2504.10081)|null|
@@ -828,7 +828,7 @@ layout: default
 |**2024-06-18**|**Is the System Message Really Important to Jailbreaks in Large Language Models?**|Xiaotian Zou et.al.|[2402.14857](http://arxiv.org/abs/2402.14857)|null|
 |**2024-02-21**|**Coercing LLMs to do and reveal (almost) anything**|Jonas Geiping et.al.|[2402.14020](http://arxiv.org/abs/2402.14020)|**[link](https://github.com/jonasgeiping/carving)**|
 |**2024-02-26**|**AttackGNN: Red-Teaming GNNs in Hardware Security Using Reinforcement Learning**|Vasudev Gohil et.al.|[2402.13946](http://arxiv.org/abs/2402.13946)|null|
-|**2024-02-21**|**Round Trip Translation Defence against Large Language Model Jailbreaking Attacks**|Canaan Yung et.al.|[2402.13517](http://arxiv.org/abs/2402.13517)|**[link](https://github.com/cancanxxx/round_trip_translation_defence)**|
+|**2025-04-30**|**Round Trip Translation Defence against Large Language Model Jailbreaking Attacks**|Canaan Yung et.al.|[2402.13517](http://arxiv.org/abs/2402.13517)|**[link](https://github.com/cancanxxx/round_trip_translation_defence)**|
 |**2024-05-29**|**GradSafe: Detecting Jailbreak Prompts for LLMs via Safety-Critical Gradient Analysis**|Yueqi Xie et.al.|[2402.13494](http://arxiv.org/abs/2402.13494)|**[link](https://github.com/xyq7/gradsafe)**|
 |**2024-05-17**|**A Comprehensive Study of Jailbreak Attack versus Defense for Large Language Models**|Zihao Xu et.al.|[2402.13457](http://arxiv.org/abs/2402.13457)|**[link](https://github.com/ltroin/llm_attack_defense_arena)**|
 |**2025-02-21**|**Defending Jailbreak Prompts via In-Context Adversarial Game**|Yujun Zhou et.al.|[2402.13148](http://arxiv.org/abs/2402.13148)|null|
