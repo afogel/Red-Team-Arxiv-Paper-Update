@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -35,7 +35,7 @@ layout: default
 |**2025-04-28**|**JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift**|Julien Piet et.al.|[2504.19440](http://arxiv.org/abs/2504.19440)|null|
 |**2025-04-27**|**Small Models, Big Tasks: An Exploratory Empirical Study on Small Language Models for Function Calling**|Ishan Kavathekar et.al.|[2504.19277](http://arxiv.org/abs/2504.19277)|null|
 |**2025-04-26**|**Graph of Attacks: Improved Black-Box and Interpretable Jailbreaks for LLMs**|Mohammad Akbar-Tajari et.al.|[2504.19019](http://arxiv.org/abs/2504.19019)|null|
-|**2025-04-22**|**WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks**|Ivan Evtimov et.al.|[2504.18575](http://arxiv.org/abs/2504.18575)|null|
+|**2025-04-30**|**WASP: Benchmarking Web Agent Security Against Prompt Injection Attacks**|Ivan Evtimov et.al.|[2504.18575](http://arxiv.org/abs/2504.18575)|null|
 |**2025-04-21**|**DualBreach: Efficient Dual-Jailbreaking via Target-Driven Initialization and Multi-Target Optimization**|Xinzhe Huang et.al.|[2504.18564](http://arxiv.org/abs/2504.18564)|null|
 |**2025-04-25**|**Adversarial Attacks on LLM-as-a-Judge Systems: Insights from Prompt Injections**|Narek Maloyan et.al.|[2504.18333](http://arxiv.org/abs/2504.18333)|null|
 |**2025-04-25**|**RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models**|Bang An et.al.|[2504.18041](http://arxiv.org/abs/2504.18041)|null|
