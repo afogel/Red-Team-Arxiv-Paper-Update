@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.02
+## Updated on 2025.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -737,7 +737,7 @@ layout: default
 |**2024-05-15**|**Benchmark Early and Red Team Often: A Framework for Assessing and Managing Dual-Use Hazards of AI Foundation Models**|Anthony M. Barrett et.al.|[2405.10986](http://arxiv.org/abs/2405.10986)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 |**2024-10-05**|**Red Teaming Language Models for Processing Contradictory Dialogues**|Xiaofei Wen et.al.|[2405.10128](http://arxiv.org/abs/2405.10128)|**[link](https://github.com/luka-group/contraDialog)**|
-|**2025-02-12**|**Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization**|Kai Hu et.al.|[2405.09113](http://arxiv.org/abs/2405.09113)|null|
+|**2025-02-12**|**Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization**|Kai Hu et.al.|[2405.09113](http://arxiv.org/abs/2405.09113)|**[link](https://github.com/hukkai/adc_llm_attack)**|
 |**2024-05-15**|**A safety realignment framework via subspace-oriented model fusion for large language models**|Xin Yi et.al.|[2405.09055](http://arxiv.org/abs/2405.09055)|**[link](https://github.com/xinykou/safety_realignment)**|
 |**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317](http://arxiv.org/abs/2405.08317)|null|
 |**2024-05-14**|**PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition**|Ziyang Zhang et.al.|[2405.07932](http://arxiv.org/abs/2405.07932)|**[link](https://github.com/ed-zh/parden)**|
