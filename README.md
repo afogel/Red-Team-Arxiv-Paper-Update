@@ -17,7 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
+|**2025-05-04**|**Open Challenges in Multi-Agent Security: Towards Secure Systems of Interacting AI Agents**|Christian Schroeder de Witt et.al.|[2505.02077](http://arxiv.org/abs/2505.02077)|null|
+|**2025-05-05**|**Helping Large Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
 |**2025-05-01**|**OET: Optimization-based prompt injection Evaluation Toolkit**|Jinsheng Pan et.al.|[2505.00843](http://arxiv.org/abs/2505.00843)|null|
 |**2025-05-05**|**The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)**|Zihao Wang et.al.|[2505.00626](http://arxiv.org/abs/2505.00626)|null|
 |**2025-05-01**|**Red Teaming Large Language Models for Healthcare**|Vahid Balazadeh et.al.|[2505.00467](http://arxiv.org/abs/2505.00467)|null|
