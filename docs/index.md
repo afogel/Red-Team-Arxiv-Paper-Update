@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -113,7 +113,7 @@ layout: default
 |**2025-04-04**|**sudo rm -rf agentic_security**|Sejin Lee et.al.|[2503.20279](http://arxiv.org/abs/2503.20279)|**[link](https://github.com/AIM-Intelligence/SUDO)**|
 |**2025-03-25**|**Red Teaming with Artificial Intelligence-Driven Cyberattacks: A Scoping Review**|Mays Al-Azzawi et.al.|[2503.19626](http://arxiv.org/abs/2503.19626)|null|
 |**2025-03-24**|**MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks**|Wenhao You et.al.|[2503.19134](http://arxiv.org/abs/2503.19134)|null|
-|**2025-03-23**|**SRMIR: Shadow Reward Models Based on Introspective Reasoning for LLM Alignment**|Ruoxi Cheng et.al.|[2503.18991](http://arxiv.org/abs/2503.18991)|null|
+|**2025-05-06**|**HAIR: Hardness-Aware Inverse Reinforcement Learning with Introspective Reasoning for LLM Alignment**|Ruoxi Cheng et.al.|[2503.18991](http://arxiv.org/abs/2503.18991)|null|
 |**2025-03-24**|**Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training**|Brian R. Bartoldson et.al.|[2503.18929](http://arxiv.org/abs/2503.18929)|null|
 |**2025-03-24**|**Defeating Prompt Injections by Design**|Edoardo Debenedetti et.al.|[2503.18813](http://arxiv.org/abs/2503.18813)|null|
 |**2025-04-19**|**Reason2Attack: Jailbreaking Text-to-Image Models via LLM Reasoning**|Chenyu Zhang et.al.|[2503.17987](http://arxiv.org/abs/2503.17987)|null|
@@ -150,7 +150,7 @@ layout: default
 |**2025-03-10**|**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**|Wenzhuo Xu et.al.|[2503.06989](http://arxiv.org/abs/2503.06989)|null|
 |**2025-03-09**|**Can Small Language Models Reliably Resist Jailbreak Attacks? A Comprehensive Evaluation**|Wenhui Zhang et.al.|[2503.06519](http://arxiv.org/abs/2503.06519)|null|
 |**2025-03-09**|**Advancing AI Negotiations: New Theory and Evidence from a Large-Scale Autonomous Negotiations Competition**|Michelle Vaccaro et.al.|[2503.06416](http://arxiv.org/abs/2503.06416)|null|
-|**2025-03-08**|**Using Mechanistic Interpretability to Craft Adversarial Attacks against Large Language Models**|Thomas Winninger et.al.|[2503.06269](http://arxiv.org/abs/2503.06269)|**[link](https://github.com/sckathach/subspace-rerouting)**|
+|**2025-05-06**|**Using Mechanistic Interpretability to Craft Adversarial Attacks against Large Language Models**|Thomas Winninger et.al.|[2503.06269](http://arxiv.org/abs/2503.06269)|**[link](https://github.com/sckathach/subspace-rerouting)**|
 |**2025-03-08**|**MAD-MAX: Modular And Diverse Malicious Attack MiXtures for Automated LLM Red Teaming**|Stefan Schoepf et.al.|[2503.06253](http://arxiv.org/abs/2503.06253)|null|
 |**2025-04-22**|**Red Team Diffuser: Exposing Toxic Continuation Vulnerabilities in Vision-Language Models via Reinforcement Learning**|Ruofan Wang et.al.|[2503.06223](http://arxiv.org/abs/2503.06223)|null|
 |**2025-03-07**|**Jailbreaking is (Mostly) Simpler Than You Think**|Mark Russinovich et.al.|[2503.05264](http://arxiv.org/abs/2503.05264)|null|
