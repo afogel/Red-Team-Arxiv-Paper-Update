@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -29,7 +29,7 @@ layout: default
 |**2025-04-29**|**CachePrune: Neural-Based Attribution Defense Against Indirect Prompt Injection Attacks**|Rui Wang et.al.|[2504.21228](http://arxiv.org/abs/2504.21228)|null|
 |**2025-04-28**|**Prefill-Based Jailbreak: A Novel Approach of Bypassing LLM Safety Boundary**|Yakai Li et.al.|[2504.21038](http://arxiv.org/abs/2504.21038)|null|
 |**2025-04-26**|**PICO: Secure Transformers via Robust Prompt Isolation and Cybersecurity Oversight**|Ben Goertzel et.al.|[2504.21029](http://arxiv.org/abs/2504.21029)|null|
-|**2025-04-29**|**ACE: A Security Architecture for LLM-Integrated App Systems**|Evan Li et.al.|[2504.20984](http://arxiv.org/abs/2504.20984)|null|
+|**2025-05-07**|**ACE: A Security Architecture for LLM-Integrated App Systems**|Evan Li et.al.|[2504.20984](http://arxiv.org/abs/2504.20984)|null|
 |**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|null|
 |**2025-04-29**|**When Testing AI Tests Us: Safeguarding Mental Health on the Digital Frontlines**|Sachin R. Pendse et.al.|[2504.20910](http://arxiv.org/abs/2504.20910)|null|
 |**2025-04-29**|**Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption**|Wenxiao Wang et.al.|[2504.20769](http://arxiv.org/abs/2504.20769)|null|
@@ -73,7 +73,7 @@ layout: default
 |**2025-04-14**|**RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability**|Yichi Zhang et.al.|[2504.10081](http://arxiv.org/abs/2504.10081)|null|
 |**2025-04-14**|**StruPhantom: Evolutionary Injection Attacks on Black-Box Tabular Agents Powered by Large Language Models**|Yang Feng et.al.|[2504.09841](http://arxiv.org/abs/2504.09841)|null|
 |**2025-04-13**|**The Structural Safety Generalization Problem**|Julius Broomfield et.al.|[2504.09712](http://arxiv.org/abs/2504.09712)|**[link](https://github.com/juliusbroomfield/the-ssg-problem)**|
-|**2025-04-13**|**Mitigating Many-Shot Jailbreaking**|Christopher M. Ackerman et.al.|[2504.09604](http://arxiv.org/abs/2504.09604)|null|
+|**2025-05-07**|**Mitigating Many-Shot Jailbreaking**|Christopher M. Ackerman et.al.|[2504.09604](http://arxiv.org/abs/2504.09604)|null|
 |**2025-04-17**|**ControlNET: A Firewall for RAG-based LLM System**|Hongwei Yao et.al.|[2504.09593](http://arxiv.org/abs/2504.09593)|null|
 |**2025-04-13**|**AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender**|Weixiang Zhao et.al.|[2504.09466](http://arxiv.org/abs/2504.09466)|null|
 |**2025-04-13**|**SaRO: Enhancing LLM Safety through Reasoning-based Alignment**|Yutao Mou et.al.|[2504.09420](http://arxiv.org/abs/2504.09420)|null|
@@ -698,7 +698,7 @@ layout: default
 |**2024-09-25**|**Ranking Manipulation for Conversational Search Engines**|Samuel Pfrommer et.al.|[2406.03589](http://arxiv.org/abs/2406.03589)|**[link](https://github.com/spfrommer/ranking_manipulation_data_pipeline)**|
 |**2025-02-01**|**Unelicitable Backdoors in Language Models via Cryptographic Transformer Circuits**|Andis Draguns et.al.|[2406.02619](http://arxiv.org/abs/2406.02619)|**[link](https://github.com/ag8/sha-transformer)**|
 |**2024-05-28**|**Are PPO-ed Language Models Hackable?**|Suraj Anand et.al.|[2406.02577](http://arxiv.org/abs/2406.02577)|null|
-|**2025-01-21**|**QROA: A Black-Box Query-Response Optimization Attack on LLMs**|Hussein Jawad et.al.|[2406.02044](http://arxiv.org/abs/2406.02044)|**[link](https://github.com/qroa/qroa)**|
+|**2025-05-06**|**Towards Universal and Black-Box Query-Response Only Attack on LLMs with QROA**|Hussein Jawad et.al.|[2406.02044](http://arxiv.org/abs/2406.02044)|**[link](https://github.com/qroa/qroa)**|
 |**2024-10-30**|**Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses**|Xiaosen Zheng et.al.|[2406.01288](http://arxiv.org/abs/2406.01288)|**[link](https://github.com/sail-sg/i-fsj)**|
 |**2025-03-06**|**Get my drift? Catching LLM Task Drift with Activation Deltas**|Sahar Abdelnabi et.al.|[2406.00799](http://arxiv.org/abs/2406.00799)|**[link](https://github.com/microsoft/TaskTracker)**|
 |**2024-06-01**|**Exploring Vulnerabilities and Protections in Large Language Models: A Survey**|Frank Weizhen Liu et.al.|[2406.00240](http://arxiv.org/abs/2406.00240)|null|
