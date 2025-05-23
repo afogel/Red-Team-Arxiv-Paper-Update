@@ -14,14 +14,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**In-Context Watermarks for Large Language Models**|Yepeng Liu et.al.|[2505.16934](http://arxiv.org/abs/2505.16934)|null|
+|**2025-05-22**|**When Safety Detectors Aren't Enough: A Stealthy and Effective Jailbreak Attack on LLMs via Steganographic Techniques**|Jianing Geng et.al.|[2505.16765](http://arxiv.org/abs/2505.16765)|null|
+|**2025-05-22**|**Finetuning-Activated Backdoors in LLMs**|Thibaud Gloaguen et.al.|[2505.16567](http://arxiv.org/abs/2505.16567)|null|
+|**2025-05-22**|**Implicit Jailbreak Attacks via Cross-Modal Information Concealment on Vision-Language Models**|Zhaoxin Wang et.al.|[2505.16446](http://arxiv.org/abs/2505.16446)|null|
+|**2025-05-22**|**Three Minds, One Legend: Jailbreak Large Reasoning Model with Adaptive Stacked Ciphers**|Viet-Anh Nguyen et.al.|[2505.16241](http://arxiv.org/abs/2505.16241)|null|
+|**2025-05-22**|**SafeKey: Amplifying Aha-Moment Insights for Safety Reasoning**|Kaiwen Zhou et.al.|[2505.16186](http://arxiv.org/abs/2505.16186)|null|
 |**2025-05-21**|**Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**|Taiye Chen et.al.|[2505.15753](http://arxiv.org/abs/2505.15753)|null|
-|**2025-05-21**|**Alignment Under Pressure: The Case for Informed Adversaries When Evaluating LLM Defenses**|Xiaoxue Yang et.al.|[2505.15738](http://arxiv.org/abs/2505.15738)|null|
+|**2025-05-21**|**Alignment Under Pressure: The Case for Informed Adversaries When Evaluating LLM Defenses**|Xiaoxue Yang et.al.|[2505.15738](http://arxiv.org/abs/2505.15738)|**[link](https://github.com/computationalprivacy/checkpoint-gcg)**|
 |**2025-05-21**|**Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries**|Yuhao Wang et.al.|[2505.15420](http://arxiv.org/abs/2505.15420)|null|
 |**2025-05-21**|**Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models**|Zirui Song et.al.|[2505.15406](http://arxiv.org/abs/2505.15406)|**[link](https://github.com/mbzuai-nlp/audiojailbreak)**|
-|**2025-05-20**|**Soft Prompts for Evaluation: Measuring Conditional Distance of Capabilities**|Ross Nordby et.al.|[2505.14943](http://arxiv.org/abs/2505.14943)|null|
+|**2025-05-20**|**Soft Prompts for Evaluation: Measuring Conditional Distance of Capabilities**|Ross Nordby et.al.|[2505.14943](http://arxiv.org/abs/2505.14943)|**[link](https://github.com/RossNordby/SoftPromptsForEvaluation)**|
 |**2025-05-20**|**SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment**|Wonje Jeung et.al.|[2505.14667](http://arxiv.org/abs/2505.14667)|null|
 |**2025-05-20**|**sudoLLM : On Multi-role Alignment of Language Models**|Soumadeep Saha et.al.|[2505.14607](http://arxiv.org/abs/2505.14607)|null|
-|**2025-05-20**|**Can Large Language Models Really Recognize Your Name?**|Dzung Pham et.al.|[2505.14549](http://arxiv.org/abs/2505.14549)|null|
+|**2025-05-20**|**Can Large Language Models Really Recognize Your Name?**|Dzung Pham et.al.|[2505.14549](http://arxiv.org/abs/2505.14549)|**[link](https://github.com/dzungvpham/llm-name-detection)**|
 |**2025-05-20**|**Breaking Bad Tokens: Detoxification of LLMs Using Sparse Autoencoders**|Agam Goyal et.al.|[2505.14536](http://arxiv.org/abs/2505.14536)|null|
 |**2025-05-20**|**Lessons from Defending Gemini Against Indirect Prompt Injections**|Chongyang Shi et.al.|[2505.14534](http://arxiv.org/abs/2505.14534)|null|
 |**2025-05-20**|**Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-Powered Mobile GUI Agents**|Pengzhou Cheng et.al.|[2505.14418](http://arxiv.org/abs/2505.14418)|null|
@@ -30,7 +36,7 @@ layout: default
 |**2025-05-20**|**EVA: Red-Teaming GUI Agents via Evolving Indirect Prompt Injection**|Yijie Lu et.al.|[2505.14289](http://arxiv.org/abs/2505.14289)|null|
 |**2025-05-20**|**"Haet Bhasha aur Diskrimineshun": Phonetic Perturbations in Code-Mixed Hinglish to Red-Team LLMs**|Darpan Aswal et.al.|[2505.14226](http://arxiv.org/abs/2505.14226)|null|
 |**2025-05-21**|**AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models**|Guangke Chen et.al.|[2505.14103](http://arxiv.org/abs/2505.14103)|null|
-|**2025-05-22**|**PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks**|Guobin Shen et.al.|[2505.13862](http://arxiv.org/abs/2505.13862)|null|
+|**2025-05-22**|**PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks**|Guobin Shen et.al.|[2505.13862](http://arxiv.org/abs/2505.13862)|**[link](https://github.com/beijing-aisi/panda-guard)**|
 |**2025-05-18**|**SPIRIT: Patching Speech Language Models against Jailbreak Attacks**|Amirbek Djanibekov et.al.|[2505.13541](http://arxiv.org/abs/2505.13541)|null|
 |**2025-05-18**|**Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through Formal Logical Expression**|Jingyu Peng et.al.|[2505.13527](http://arxiv.org/abs/2505.13527)|null|
 |**2025-05-19**|**Investigating the Vulnerability of LLM-as-a-Judge Architectures to Prompt-Injection Attacks**|Narek Maloyan et.al.|[2505.13348](http://arxiv.org/abs/2505.13348)|null|
@@ -308,6 +314,7 @@ layout: default
 |**2025-02-06**|**When Anti-Fraud Laws Become a Barrier to Computer Science Research**|Madelyne Xiao et.al.|[2502.02767](http://arxiv.org/abs/2502.02767)|null|
 |**2025-02-04**|**STAIR: Improving Safety Alignment with Introspective Reasoning**|Yichi Zhang et.al.|[2502.02384](http://arxiv.org/abs/2502.02384)|**[link](https://github.com/thu-ml/stair)**|
 |**2025-02-04**|**PANDAS: Improving Many-shot Jailbreaking via Positive Affirmation, Negative Demonstration, and Adaptive Sampling**|Avery Ma et.al.|[2502.01925](http://arxiv.org/abs/2502.01925)|null|
+|**2025-05-22**|**Firewalls to Secure Dynamic LLM Agentic Networks**|Sahar Abdelnabi et.al.|[2502.01822](http://arxiv.org/abs/2502.01822)|null|
 |**2025-02-03**|**Adversarial Reasoning at Jailbreaking Time**|Mahdi Sabbaghi et.al.|[2502.01633](http://arxiv.org/abs/2502.01633)|**[link](https://github.com/helloworld10011/adversarial-reasoning)**|
 |**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|**[link](https://github.com/hashmatshadab/robust-llava)**|
 |**2025-04-14**|**Towards Safer Chatbots: A Framework for Policy Compliance Evaluation of Custom GPTs**|David Rodriguez et.al.|[2502.01436](http://arxiv.org/abs/2502.01436)|null|
@@ -807,6 +814,7 @@ layout: default
 |**2024-05-14**|**PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition**|Ziyang Zhang et.al.|[2405.07932](http://arxiv.org/abs/2405.07932)|**[link](https://github.com/ed-zh/parden)**|
 |**2024-05-14**|**PLeak: Prompt Leaking Attacks against Large Language Model Applications**|Bo Hui et.al.|[2405.06823](http://arxiv.org/abs/2405.06823)|**[link](https://github.com/bhui97/pleak)**|
 |**2024-08-29**|**Mitigating Exaggerated Safety in Large Language Models**|Ruchira Ray et.al.|[2405.05418](http://arxiv.org/abs/2405.05418)|null|
+|**2025-05-21**|**Red-Teaming for Inducing Societal Bias in Large Language Models**|Chu Fei Luo et.al.|[2405.04756](http://arxiv.org/abs/2405.04756)|**[link](https://github.com/VectorInstitute/biaskg)**|
 |**2024-05-07**|**Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks**|Georgios Pantazopoulos et.al.|[2405.04403](http://arxiv.org/abs/2405.04403)|**[link](https://github.com/gpantaz/vl_jailbreak)**|
 |**2024-05-07**|**Can LLMs Deeply Detect Complex Malicious Queries? A Framework for Jailbreaking via Obfuscating Intent**|Shang Shang et.al.|[2405.03654](http://arxiv.org/abs/2405.03654)|null|
 |**2024-05-03**|**Aloe: A Family of Fine-tuned Open Healthcare LLMs**|Ashwin Kumar Gururajan et.al.|[2405.01886](http://arxiv.org/abs/2405.01886)|null|
