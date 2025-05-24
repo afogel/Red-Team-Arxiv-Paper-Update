@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.23
+## Updated on 2025.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -284,7 +284,7 @@ layout: default
 |**2025-02-17**|**CCJA: Context-Coherent Jailbreak Attack for Aligned Large Language Models**|Guanghao Zhou et.al.|[2502.11379](http://arxiv.org/abs/2502.11379)|null|
 |**2025-02-16**|**G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems**|Shilong Wang et.al.|[2502.11127](http://arxiv.org/abs/2502.11127)|null|
 |**2025-02-18**|**SafeDialBench: A Fine-Grained Safety Benchmark for Large Language Models in Multi-Turn Dialogues with Diverse Jailbreak Attacks**|Hongye Cao et.al.|[2502.11090](http://arxiv.org/abs/2502.11090)|**[link](https://github.com/drivetosouth/safedialbench-dataset)**|
-|**2025-02-16**|**Rewrite to Jailbreak: Discover Learnable and Transferable Implicit Harmfulness Instruction**|Yuting Huang et.al.|[2502.11084](http://arxiv.org/abs/2502.11084)|null|
+|**2025-02-16**|**Rewrite to Jailbreak: Discover Learnable and Transferable Implicit Harmfulness Instruction**|Yuting Huang et.al.|[2502.11084](http://arxiv.org/abs/2502.11084)|**[link](https://github.com/ythuang02/R2J)**|
 |**2025-03-11**|**Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models**|Zonghao Ying et.al.|[2502.11054](http://arxiv.org/abs/2502.11054)|**[link](https://github.com/ny1024/race)**|
 |**2025-02-16**|**Prompt Inject Detection with Generative Explanation as an Investigative Tool**|Jonathan Pan et.al.|[2502.11006](http://arxiv.org/abs/2502.11006)|null|
 |**2025-02-15**|**Distraction is All You Need for Multimodal Large Language Model Jailbreaking**|Zuopeng Yang et.al.|[2502.10794](http://arxiv.org/abs/2502.10794)|null|
