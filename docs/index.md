@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -53,7 +53,7 @@ layout: default
 |**2025-05-21**|**Silent Leaks: Implicit Knowledge Extraction Attack on RAG Systems through Benign Queries**|Yuhao Wang et.al.|[2505.15420](http://arxiv.org/abs/2505.15420)|null|
 |**2025-05-21**|**Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models**|Zirui Song et.al.|[2505.15406](http://arxiv.org/abs/2505.15406)|**[link](https://github.com/mbzuai-nlp/audiojailbreak)**|
 |**2025-05-20**|**Soft Prompts for Evaluation: Measuring Conditional Distance of Capabilities**|Ross Nordby et.al.|[2505.14943](http://arxiv.org/abs/2505.14943)|**[link](https://github.com/RossNordby/SoftPromptsForEvaluation)**|
-|**2025-05-20**|**SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment**|Wonje Jeung et.al.|[2505.14667](http://arxiv.org/abs/2505.14667)|null|
+|**2025-05-27**|**SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment**|Wonje Jeung et.al.|[2505.14667](http://arxiv.org/abs/2505.14667)|null|
 |**2025-05-20**|**sudoLLM : On Multi-role Alignment of Language Models**|Soumadeep Saha et.al.|[2505.14607](http://arxiv.org/abs/2505.14607)|null|
 |**2025-05-20**|**Can Large Language Models Really Recognize Your Name?**|Dzung Pham et.al.|[2505.14549](http://arxiv.org/abs/2505.14549)|**[link](https://github.com/dzungvpham/llm-name-detection)**|
 |**2025-05-20**|**Breaking Bad Tokens: Detoxification of LLMs Using Sparse Autoencoders**|Agam Goyal et.al.|[2505.14536](http://arxiv.org/abs/2505.14536)|null|
@@ -322,7 +322,7 @@ layout: default
 |**2025-03-06**|**X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability**|Xiaoya Lu et.al.|[2502.09990](http://arxiv.org/abs/2502.09990)|**[link](https://github.com/ai45lab/x-boundary)**|
 |**2025-02-13**|**Enhancing Jailbreak Attacks via Compliance-Refusal-Based Initialization**|Amit Levi et.al.|[2502.09755](http://arxiv.org/abs/2502.09755)|null|
 |**2025-05-26**|**QueryAttack: Jailbreaking Aligned Large Language Models Using Structured Non-natural Query Language**|Qingsong Zou et.al.|[2502.09723](http://arxiv.org/abs/2502.09723)|**[link](https://github.com/horizonsinzqs/queryattack)**|
-|**2025-05-22**|**The Hidden Dimensions of LLM Alignment: A Multi-Dimensional Analysis of Orthogonal Safety Directions**|Wenbo Pan et.al.|[2502.09674](http://arxiv.org/abs/2502.09674)|**[link](https://github.com/bmpixel/safety-residual-space)**|
+|**2025-05-27**|**The Hidden Dimensions of LLM Alignment: A Multi-Dimensional Analysis of Orthogonal Safety Directions**|Wenbo Pan et.al.|[2502.09674](http://arxiv.org/abs/2502.09674)|**[link](https://github.com/bmpixel/safety-residual-space)**|
 |**2025-02-09**|**Jailbreaking to Jailbreak**|Jeremy Kritz et.al.|[2502.09638](http://arxiv.org/abs/2502.09638)|null|
 |**2025-02-13**|**FLAME: Flexible LLM-Assisted Moderation Engine**|Ivan Bakulin et.al.|[2502.09175](http://arxiv.org/abs/2502.09175)|null|
 |**2025-02-14**|**RTBAS: Defending LLM Agents Against Prompt Injection and Privacy Leakage**|Peter Yong Zhong et.al.|[2502.08966](http://arxiv.org/abs/2502.08966)|null|
@@ -331,7 +331,7 @@ layout: default
 |**2025-02-19**|**A Frontier AI Risk Management Framework: Bridging the Gap Between Current AI Practices and Established Risk Management**|Simeon Campos et.al.|[2502.06656](http://arxiv.org/abs/2502.06656)|null|
 |**2025-02-10**|**Predictive Red Teaming: Breaking Policies Without Breaking Robots**|Anirudha Majumdar et.al.|[2502.06575](http://arxiv.org/abs/2502.06575)|null|
 |**2025-02-11**|**When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs**|Aobotao Dai et.al.|[2502.06390](http://arxiv.org/abs/2502.06390)|**[link](https://github.com/aobtdai/vlm_attack_paper_list)**|
-|**2025-03-25**|**Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond**|Chongyu Fan et.al.|[2502.05374](http://arxiv.org/abs/2502.05374)|**[link](https://github.com/optml-group/unlearn-smooth)**|
+|**2025-05-27**|**Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond**|Chongyu Fan et.al.|[2502.05374](http://arxiv.org/abs/2502.05374)|**[link](https://github.com/optml-group/unlearn-smooth)**|
 |**2025-02-05**|**KDA: A Knowledge-Distilled Attacker for Generating Diverse Prompts to Jailbreak LLMs**|Buyun Liang et.al.|[2502.05223](http://arxiv.org/abs/2502.05223)|null|
 |**2025-03-19**|**Safety at Scale: A Comprehensive Survey of Large Model Safety**|Xingjun Ma et.al.|[2502.05206](http://arxiv.org/abs/2502.05206)|**[link](https://github.com/xingjunm/awesome-large-model-safety)**|
 |**2025-05-24**|**MELON: Provable Indirect Prompt Injection Defense via Masked Re-execution and Tool Comparison**|Kaijie Zhu et.al.|[2502.05174](http://arxiv.org/abs/2502.05174)|null|
