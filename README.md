@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Adaptive Detoxification: Safeguarding General Capabilities of LLMs through Toxicity-Aware Knowledge Editing**|Yifan Lu et.al.|[2505.22298](http://arxiv.org/abs/2505.22298)|null|
+|**2025-05-28**|**Test-Time Immunization: A Universal Defense Framework Against Jailbreaks for (Multimodal) Large Language Models**|Yongcan Yu et.al.|[2505.22271](http://arxiv.org/abs/2505.22271)|null|
+|**2025-05-28**|**Jailbreak Distillation: Renewable Safety Benchmarking**|Jingyu Zhang et.al.|[2505.22037](http://arxiv.org/abs/2505.22037)|null|
+|**2025-05-28**|**RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments**|Zeyi Liao et.al.|[2505.21936](http://arxiv.org/abs/2505.21936)|null|
+|**2025-05-27**|**Towards Safety Reasoning in LLMs: AI-agentic Deliberation for Policy-embedded CoT Data Creation**|Tharindu Kumarage et.al.|[2505.21784](http://arxiv.org/abs/2505.21784)|null|
+|**2025-05-26**|**Benign-to-Toxic Jailbreaking: Inducing Harmful Responses from Harmless Prompts**|Hee-Seon Kim et.al.|[2505.21556](http://arxiv.org/abs/2505.21556)|null|
 |**2025-05-28**|**Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space**|Yao Huang et.al.|[2505.21277](http://arxiv.org/abs/2505.21277)|null|
 |**2025-05-27**|**Red-Teaming Text-to-Image Systems by Rule-based Preference Modeling**|Yichuan Cao et.al.|[2505.21074](http://arxiv.org/abs/2505.21074)|null|
 |**2025-05-27**|**Improved Representation Steering for Language Models**|Zhengxuan Wu et.al.|[2505.20809](http://arxiv.org/abs/2505.20809)|null|
@@ -542,6 +548,7 @@
 |**2025-02-27**|**Towards Understanding the Fragility of Multilingual LLMs against Fine-Tuning Attacks**|Samuele Poppi et.al.|[2410.18210](http://arxiv.org/abs/2410.18210)|null|
 |**2025-02-09**|**Dynamic Guided and Domain Applicable Safeguards for Enhanced Security in Large Language Models**|Weidi Luo et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|**[link](https://github.com/idea-xl/g4d)**|
 |**2024-12-10**|**MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control**|Juyong Lee et.al.|[2410.17520](http://arxiv.org/abs/2410.17520)|**[link](https://github.com/jylee425/mobilesafetybench)**|
+|**2025-05-28**|**AdvAgent: Controllable Blackbox Red-teaming on Web Agents**|Chejian Xu et.al.|[2410.17401](http://arxiv.org/abs/2410.17401)|null|
 |**2024-10-22**|**Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In**|Itay Nakash et.al.|[2410.16950](http://arxiv.org/abs/2410.16950)|null|
 |**2024-10-22**|**LLM-Assisted Red Teaming of Diffusion Models through "Failures Are Fated, But Can Be Faded"**|Som Sagar et.al.|[2410.16738](http://arxiv.org/abs/2410.16738)|null|
 |**2024-11-02**|**Bayesian scaling laws for in-context learning**|Aryaman Arora et.al.|[2410.16531](http://arxiv.org/abs/2410.16531)|**[link](https://github.com/aryamanarora/bayesian-laws-icl)**|
