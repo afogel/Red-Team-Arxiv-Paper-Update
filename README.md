@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis**|Xiaorui Wu et.al.|[2505.24672](http://arxiv.org/abs/2505.24672)|null|
+|**2025-05-30**|**Benchmarking Large Language Models for Cryptanalysis and Mismatched-Generalization**|Utsav Maskey et.al.|[2505.24621](http://arxiv.org/abs/2505.24621)|null|
+|**2025-05-30**|**AMIA: Automatic Masking and Joint Intention Analysis Makes LVLMs Robust Jailbreak Defenders**|Yuqi Zhang et.al.|[2505.24519](http://arxiv.org/abs/2505.24519)|null|
+|**2025-05-30**|**Model Unlearning via Sparse Autoencoder Subspace Guided Projections**|Xu Wang et.al.|[2505.24428](http://arxiv.org/abs/2505.24428)|null|
+|**2025-05-30**|**A Reward-driven Automated Webshell Malicious-code Generator for Red-teaming**|Yizhong Ding et.al.|[2505.24252](http://arxiv.org/abs/2505.24252)|null|
+|**2025-05-30**|**Locating Risk: Task Designers and the Challenge of Risk Disclosure in RAI Content Work**|Alice Qian Zhang et.al.|[2505.24246](http://arxiv.org/abs/2505.24246)|null|
+|**2025-05-30**|**From Hallucinations to Jailbreaks: Rethinking the Vulnerability of Large Foundation Models**|Haibo Jin et.al.|[2505.24232](http://arxiv.org/abs/2505.24232)|null|
+|**2025-05-30**|**SentinelAgent: Graph-based Anomaly Detection in Multi-Agent Systems**|Xu He et.al.|[2505.24201](http://arxiv.org/abs/2505.24201)|null|
+|**2025-05-29**|**LLM Agents Should Employ Security Principles**|Kaiyuan Zhang et.al.|[2505.24019](http://arxiv.org/abs/2505.24019)|null|
+|**2025-05-28**|**GeneBreaker: Jailbreak Attacks against DNA Language Models with Pathogenicity Guidance**|Zaixi Zhang et.al.|[2505.23839](http://arxiv.org/abs/2505.23839)|null|
 |**2025-05-29**|**Securing AI Agents with Information-Flow Control**|Manuel Costa et.al.|[2505.23643](http://arxiv.org/abs/2505.23643)|**[link](https://github.com/microsoft/fides)**|
 |**2025-05-29**|**CoT Red-Handed: Stress Testing Chain-of-Thought Monitoring**|Benjamin Arnav et.al.|[2505.23575](http://arxiv.org/abs/2505.23575)|null|
 |**2025-05-29**|**Understanding Refusal in Language Models with Sparse Autoencoders**|Wei Jie Yeo et.al.|[2505.23556](http://arxiv.org/abs/2505.23556)|**[link](https://github.com/wj210/refusal_sae)**|
@@ -846,6 +856,7 @@
 |**2024-10-08**|**Extracting Prompts by Inverting LLM Outputs**|Collin Zhang et.al.|[2405.15012](http://arxiv.org/abs/2405.15012)|**[link](https://github.com/collinzrj/output2prompt)**|
 |**2024-10-30**|**Representation Noising: A Defence Mechanism Against Harmful Finetuning**|Domenic Rosati et.al.|[2405.14577](http://arxiv.org/abs/2405.14577)|**[link](https://github.com/domenicrosati/representation-noising)**|
 |**2024-05-23**|**Impact of Non-Standard Unicode Characters on Security and Comprehension in Large Language Models**|Johan S Daniel et.al.|[2405.14490](http://arxiv.org/abs/2405.14490)|**[link](https://github.com/raidedcluster/non-standard_unicode_jailbreaks)**|
+|**2025-05-30**|**Efficient Universal Goal Hijacking with Semantics-guided Prompt Organization**|Yihao Huang et.al.|[2405.14189](http://arxiv.org/abs/2405.14189)|null|
 |**2024-05-22**|**WordGame: Efficient & Effective LLM Jailbreak via Simultaneous Obfuscation in Query and Response**|Tianrong Zhang et.al.|[2405.14023](http://arxiv.org/abs/2405.14023)|null|
 |**2024-05-22**|**Safety Alignment for Vision Language Models**|Zhendong Liu et.al.|[2405.13581](http://arxiv.org/abs/2405.13581)|null|
 |**2024-07-07**|**TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models**|Pengzhou Cheng et.al.|[2405.13401](http://arxiv.org/abs/2405.13401)|**[link](https://github.com/charles-ydd/trojanrag)**|
