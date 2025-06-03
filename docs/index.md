@@ -145,7 +145,7 @@ layout: default
 |**2025-04-21**|**Jailbreak Detection in Clinical Training LLMs Using Feature-Based Predictive Models**|Tri Nguyen et.al.|[2505.00010](http://arxiv.org/abs/2505.00010)|null|
 |**2025-04-30**|**XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs**|Marco Arazzi et.al.|[2504.21700](http://arxiv.org/abs/2504.21700)|null|
 |**2025-04-30**|**Hoist with His Own Petard: Inducing Guardrails to Facilitate Denial-of-Service Attacks on Retrieval-Augmented Generation of LLMs**|Pan Suo et.al.|[2504.21680](http://arxiv.org/abs/2504.21680)|null|
-|**2025-04-30**|**The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning**|Siyi Chen et.al.|[2504.21307](http://arxiv.org/abs/2504.21307)|null|
+|**2025-06-02**|**The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning**|Siyi Chen et.al.|[2504.21307](http://arxiv.org/abs/2504.21307)|null|
 |**2025-04-29**|**CachePrune: Neural-Based Attribution Defense Against Indirect Prompt Injection Attacks**|Rui Wang et.al.|[2504.21228](http://arxiv.org/abs/2504.21228)|null|
 |**2025-04-28**|**Prefill-Based Jailbreak: A Novel Approach of Bypassing LLM Safety Boundary**|Yakai Li et.al.|[2504.21038](http://arxiv.org/abs/2504.21038)|**[link](https://github.com/star5o/Prefill-based-Jailbreak)**|
 |**2025-04-26**|**PICO: Secure Transformers via Robust Prompt Isolation and Cybersecurity Oversight**|Ben Goertzel et.al.|[2504.21029](http://arxiv.org/abs/2504.21029)|null|
@@ -316,7 +316,7 @@ layout: default
 |**2025-02-21**|**Single-pass Detection of Jailbreaking Input in Large Language Models**|Leyla Naz Candogan et.al.|[2502.15435](http://arxiv.org/abs/2502.15435)|null|
 |**2025-02-21**|**Adversarial Prompt Evaluation: Systematic Benchmarking of Guardrails Against Prompt Input Attacks on LLMs**|Giulio Zizzo et.al.|[2502.15427](http://arxiv.org/abs/2502.15427)|**[link](https://github.com/ibm/adversarial-prompt-evaluation)**|
 |**2025-02-21**|**Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment**|Pedram Zaree et.al.|[2502.15334](http://arxiv.org/abs/2502.15334)|null|
-|**2025-02-20**|**Red-Teaming LLM Multi-Agent Systems via Communication Attacks**|Pengfei He et.al.|[2502.14847](http://arxiv.org/abs/2502.14847)|null|
+|**2025-06-02**|**Red-Teaming LLM Multi-Agent Systems via Communication Attacks**|Pengfei He et.al.|[2502.14847](http://arxiv.org/abs/2502.14847)|null|
 |**2025-04-21**|**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**|Yilei Jiang et.al.|[2502.14744](http://arxiv.org/abs/2502.14744)|**[link](https://github.com/leigest519/hiddendetect)**|
 |**2025-02-20**|**How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation**|Zhuohang Long et.al.|[2502.14486](http://arxiv.org/abs/2502.14486)|null|
 |**2025-02-19**|**Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region**|Chak Tou Leong et.al.|[2502.13946](http://arxiv.org/abs/2502.13946)|null|
@@ -361,7 +361,7 @@ layout: default
 |**2025-02-11**|**When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs**|Aobotao Dai et.al.|[2502.06390](http://arxiv.org/abs/2502.06390)|**[link](https://github.com/aobtdai/vlm_attack_paper_list)**|
 |**2025-05-27**|**Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond**|Chongyu Fan et.al.|[2502.05374](http://arxiv.org/abs/2502.05374)|**[link](https://github.com/optml-group/unlearn-smooth)**|
 |**2025-02-05**|**KDA: A Knowledge-Distilled Attacker for Generating Diverse Prompts to Jailbreak LLMs**|Buyun Liang et.al.|[2502.05223](http://arxiv.org/abs/2502.05223)|null|
-|**2025-03-19**|**Safety at Scale: A Comprehensive Survey of Large Model Safety**|Xingjun Ma et.al.|[2502.05206](http://arxiv.org/abs/2502.05206)|**[link](https://github.com/xingjunm/awesome-large-model-safety)**|
+|**2025-06-02**|**Safety at Scale: A Comprehensive Survey of Large Model Safety**|Xingjun Ma et.al.|[2502.05206](http://arxiv.org/abs/2502.05206)|**[link](https://github.com/xingjunm/awesome-large-model-safety)**|
 |**2025-05-24**|**MELON: Provable Indirect Prompt Injection Defense via Masked Re-execution and Tool Comparison**|Kaijie Zhu et.al.|[2502.05174](http://arxiv.org/abs/2502.05174)|null|
 |**2025-02-06**|**Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions**|Yik Siu Chan et.al.|[2502.04322](http://arxiv.org/abs/2502.04322)|**[link](https://github.com/yiksiu-chan/SpeakEasy)**|
 |**2025-02-06**|**"Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence**|Shaopeng Fu et.al.|[2502.04204](http://arxiv.org/abs/2502.04204)|**[link](https://github.com/fshp971/adv-icl)**|
