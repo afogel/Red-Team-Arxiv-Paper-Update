@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -49,7 +49,7 @@
 |**2025-05-30**|**From Hallucinations to Jailbreaks: Rethinking the Vulnerability of Large Foundation Models**|Haibo Jin et.al.|[2505.24232](http://arxiv.org/abs/2505.24232)|null|
 |**2025-05-30**|**SentinelAgent: Graph-based Anomaly Detection in Multi-Agent Systems**|Xu He et.al.|[2505.24201](http://arxiv.org/abs/2505.24201)|null|
 |**2025-05-29**|**LLM Agents Should Employ Security Principles**|Kaiyuan Zhang et.al.|[2505.24019](http://arxiv.org/abs/2505.24019)|null|
-|**2025-05-28**|**GeneBreaker: Jailbreak Attacks against DNA Language Models with Pathogenicity Guidance**|Zaixi Zhang et.al.|[2505.23839](http://arxiv.org/abs/2505.23839)|null|
+|**2025-05-28**|**GeneBreaker: Jailbreak Attacks against DNA Language Models with Pathogenicity Guidance**|Zaixi Zhang et.al.|[2505.23839](http://arxiv.org/abs/2505.23839)|**[link](https://github.com/zaixizhang/genebreaker)**|
 |**2025-05-29**|**Securing AI Agents with Information-Flow Control**|Manuel Costa et.al.|[2505.23643](http://arxiv.org/abs/2505.23643)|**[link](https://github.com/microsoft/fides)**|
 |**2025-05-29**|**CoT Red-Handed: Stress Testing Chain-of-Thought Monitoring**|Benjamin Arnav et.al.|[2505.23575](http://arxiv.org/abs/2505.23575)|null|
 |**2025-05-29**|**Understanding Refusal in Language Models with Sparse Autoencoders**|Wei Jie Yeo et.al.|[2505.23556](http://arxiv.org/abs/2505.23556)|**[link](https://github.com/wj210/refusal_sae)**|
@@ -58,7 +58,7 @@
 |**2025-05-28**|**Adaptive Detoxification: Safeguarding General Capabilities of LLMs through Toxicity-Aware Knowledge Editing**|Yifan Lu et.al.|[2505.22298](http://arxiv.org/abs/2505.22298)|null|
 |**2025-05-28**|**Test-Time Immunization: A Universal Defense Framework Against Jailbreaks for (Multimodal) Large Language Models**|Yongcan Yu et.al.|[2505.22271](http://arxiv.org/abs/2505.22271)|null|
 |**2025-05-28**|**Jailbreak Distillation: Renewable Safety Benchmarking**|Jingyu Zhang et.al.|[2505.22037](http://arxiv.org/abs/2505.22037)|null|
-|**2025-06-01**|**RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments**|Zeyi Liao et.al.|[2505.21936](http://arxiv.org/abs/2505.21936)|null|
+|**2025-06-01**|**RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments**|Zeyi Liao et.al.|[2505.21936](http://arxiv.org/abs/2505.21936)|**[link](https://github.com/osu-nlp-group/redteamcua)**|
 |**2025-05-27**|**Towards Safety Reasoning in LLMs: AI-agentic Deliberation for Policy-embedded CoT Data Creation**|Tharindu Kumarage et.al.|[2505.21784](http://arxiv.org/abs/2505.21784)|null|
 |**2025-05-26**|**Benign-to-Toxic Jailbreaking: Inducing Harmful Responses from Harmless Prompts**|Hee-Seon Kim et.al.|[2505.21556](http://arxiv.org/abs/2505.21556)|null|
 |**2025-05-28**|**Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space**|Yao Huang et.al.|[2505.21277](http://arxiv.org/abs/2505.21277)|**[link](https://github.com/aries-iai/cl-gso)**|
@@ -91,7 +91,7 @@
 |**2025-05-23**|**JALMBench: Benchmarking Jailbreak Vulnerabilities in Audio Language Models**|Zifan Peng et.al.|[2505.17568](http://arxiv.org/abs/2505.17568)|**[link](https://github.com/sfofgalaxy/jalmbench)**|
 |**2025-05-23**|**Chain-of-Lure: A Synthetic Narrative-Driven Approach to Compromise Large Language Models**|Wenhan Chang et.al.|[2505.17519](http://arxiv.org/abs/2505.17519)|null|
 |**2025-05-22**|**Refusal Direction is Universal Across Safety-Aligned Languages**|Xinpeng Wang et.al.|[2505.17306](http://arxiv.org/abs/2505.17306)|null|
-|**2025-05-22**|**MTSA: Multi-turn Safety Alignment for LLMs through Multi-round Red-teaming**|Weiyang Guo et.al.|[2505.17147](http://arxiv.org/abs/2505.17147)|null|
+|**2025-05-22**|**MTSA: Multi-turn Safety Alignment for LLMs through Multi-round Red-teaming**|Weiyang Guo et.al.|[2505.17147](http://arxiv.org/abs/2505.17147)|**[link](https://github.com/yuki-younai/mtsa)**|
 |**2025-05-22**|**Robustifying Vision-Language Models via Dynamic Token Reweighting**|Tanqiu Jiang et.al.|[2505.17132](http://arxiv.org/abs/2505.17132)|null|
 |**2025-05-21**|**RRTL: Red Teaming Reasoning Large Language Models in Tool Learning**|Yifei Liu et.al.|[2505.17106](http://arxiv.org/abs/2505.17106)|null|
 |**2025-05-20**|**Trust Me, I Can Handle It: Self-Generated Adversarial Scenario Extrapolation for Robust Language Models**|Md Rafi Ur Rashid et.al.|[2505.17089](http://arxiv.org/abs/2505.17089)|null|
@@ -1225,7 +1225,7 @@
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250608>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
