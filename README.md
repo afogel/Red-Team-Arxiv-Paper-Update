@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Small Models, Big Support: A Local LLM Framework for Teacher-Centric Content Creation and Assessment using RAG and CAG**|Zarreen Reza et.al.|[2506.05925](http://arxiv.org/abs/2506.05925)|null|
+|**2025-06-06**|**To Protect the LLM Agent Against the Prompt Injection Attack with Polymorphic Prompt**|Zhilong Wang et.al.|[2506.05739](http://arxiv.org/abs/2506.05739)|null|
+|**2025-06-05**|**Sentinel: SOTA model to protect against prompt injections**|Dror Ivry et.al.|[2506.05446](http://arxiv.org/abs/2506.05446)|null|
+|**2025-05-30**|**A Red Teaming Roadmap Towards System-Level Safety**|Zifan Wang et.al.|[2506.05376](http://arxiv.org/abs/2506.05376)|null|
 |**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346](http://arxiv.org/abs/2506.05346)|null|
 |**2025-06-05**|**HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model**|Youngwan Lee et.al.|[2506.04704](http://arxiv.org/abs/2506.04704)|null|
 |**2025-06-04**|**RedRFT: A Light-Weight Benchmark for Reinforcement Fine-Tuning-Based Red Teaming**|Xiang Zheng et.al.|[2506.04302](http://arxiv.org/abs/2506.04302)|null|
