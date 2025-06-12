@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge**|Sahar Abdelnabi et.al.|[2506.09956](http://arxiv.org/abs/2506.09956)|null|
+|**2025-06-11**|**Effective Red-Teaming of Policy-Adherent Agents**|Itay Nakash et.al.|[2506.09600](http://arxiv.org/abs/2506.09600)|null|
+|**2025-06-11**|**LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**|Songze Li et.al.|[2506.09443](http://arxiv.org/abs/2506.09443)|null|
+|**2025-06-08**|**Enhancing the Safety of Medical Vision-Language Models by Synthetic Demonstrations**|Zhiyu Xue et.al.|[2506.09067](http://arxiv.org/abs/2506.09067)|null|
 |**2025-06-11**|**AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI)**|Danush Khanna et.al.|[2506.08885](http://arxiv.org/abs/2506.08885)|null|
 |**2025-06-11**|**Design Patterns for Securing LLM Agents against Prompt Injections**|Luca Beurer-Kellner et.al.|[2506.08837](http://arxiv.org/abs/2506.08837)|null|
 |**2025-06-09**|**TokenBreak: Bypassing Text Classification Models Through Token Manipulation**|Kasimir Schulz et.al.|[2506.07948](http://arxiv.org/abs/2506.07948)|null|
@@ -53,7 +57,7 @@
 |**2025-06-01**|**Predicting Empirical AI Research Outcomes with Language Models**|Jiaxin Wen et.al.|[2506.00794](http://arxiv.org/abs/2506.00794)|null|
 |**2025-06-01**|**Jailbreak-R1: Exploring the Jailbreak Capabilities of LLMs via Reinforcement Learning**|Weiyang Guo et.al.|[2506.00782](http://arxiv.org/abs/2506.00782)|null|
 |**2025-06-01**|**CoP: Agentic Red-teaming for Large Language Models using Composition of Principles**|Chen Xiong et.al.|[2506.00781](http://arxiv.org/abs/2506.00781)|null|
-|**2025-05-31**|**Con Instruction: Universal Jailbreaking of Multimodal Large Language Models via Non-Textual Modalities**|Jiahui Geng et.al.|[2506.00548](http://arxiv.org/abs/2506.00548)|null|
+|**2025-05-31**|**Con Instruction: Universal Jailbreaking of Multimodal Large Language Models via Non-Textual Modalities**|Jiahui Geng et.al.|[2506.00548](http://arxiv.org/abs/2506.00548)|**[link](https://github.com/UKPLab/acl2025-con-instruction)**|
 |**2025-05-31**|**Keeping an Eye on LLM Unlearning: The Hidden Risk and Remedy**|Jie Ren et.al.|[2506.00359](http://arxiv.org/abs/2506.00359)|null|
 |**2025-05-30**|**Adversarial Threat Vectors and Risk Mitigation for Retrieval-Augmented Generation Systems**|Chris M. Ward et.al.|[2506.00281](http://arxiv.org/abs/2506.00281)|null|
 |**2025-05-29**|**SafeCOMM: What about Safety Alignment in Fine-Tuned Telecom Large Language Models?**|Aladin Djuhera et.al.|[2506.00062](http://arxiv.org/abs/2506.00062)|null|
