@@ -24,9 +24,9 @@
 |**2025-06-10**|**Evaluation empirique de la sécurisation et de l'alignement de ChatGPT et Gemini: analyse comparative des vulnérabilités par expérimentations de jailbreaks**|Rafaël Nouailles et.al.|[2506.10029](http://arxiv.org/abs/2506.10029)|null|
 |**2025-06-09**|**LLMs Caught in the Crossfire: Malware Requests and Jailbreak Challenges**|Haoyang Li et.al.|[2506.10022](http://arxiv.org/abs/2506.10022)|null|
 |**2025-06-07**|**From Threat to Tool: Leveraging Refusal-Aware Injection Attacks for Safety Alignment**|Kyubyung Chae et.al.|[2506.10020](http://arxiv.org/abs/2506.10020)|null|
-|**2025-06-11**|**LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge**|Sahar Abdelnabi et.al.|[2506.09956](http://arxiv.org/abs/2506.09956)|null|
+|**2025-06-11**|**LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge**|Sahar Abdelnabi et.al.|[2506.09956](http://arxiv.org/abs/2506.09956)|**[link](https://github.com/microsoft/llmail-inject-challenge-analysis)**|
 |**2025-06-11**|**Effective Red-Teaming of Policy-Adherent Agents**|Itay Nakash et.al.|[2506.09600](http://arxiv.org/abs/2506.09600)|null|
-|**2025-06-11**|**LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**|Songze Li et.al.|[2506.09443](http://arxiv.org/abs/2506.09443)|null|
+|**2025-06-11**|**LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**|Songze Li et.al.|[2506.09443](http://arxiv.org/abs/2506.09443)|**[link](https://github.com/s3ic-lab/robustjudge)**|
 |**2025-06-08**|**Enhancing the Safety of Medical Vision-Language Models by Synthetic Demonstrations**|Zhiyu Xue et.al.|[2506.09067](http://arxiv.org/abs/2506.09067)|null|
 |**2025-06-11**|**AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI)**|Danush Khanna et.al.|[2506.08885](http://arxiv.org/abs/2506.08885)|null|
 |**2025-06-11**|**Design Patterns for Securing LLM Agents against Prompt Injections**|Luca Beurer-Kellner et.al.|[2506.08837](http://arxiv.org/abs/2506.08837)|null|
@@ -284,7 +284,7 @@
 |**2025-03-28**|**Effective Automation to Support the Human Infrastructure in AI Red Teaming**|Alice Qian Zhang et.al.|[2503.22116](http://arxiv.org/abs/2503.22116)|null|
 |**2025-03-27**|**Prompt, Divide, and Conquer: Bypassing Large Language Model Safety Filters via Segmented and Distributed Prompt Processing**|Johan Wahréus et.al.|[2503.21598](http://arxiv.org/abs/2503.21598)|null|
 |**2025-03-27**|**Harnessing Chain-of-Thought Metadata for Task Routing and Adversarial Prompt Detection**|Ryan Marinelli et.al.|[2503.21464](http://arxiv.org/abs/2503.21464)|**[link](https://github.com/rymarinelli/number_of_thoughts)**|
-|**2025-03-26**|**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**|Joonhyun Jeong et.al.|[2503.20823](http://arxiv.org/abs/2503.20823)|null|
+|**2025-03-26**|**Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy**|Joonhyun Jeong et.al.|[2503.20823](http://arxiv.org/abs/2503.20823)|**[link](https://github.com/naver-ai/jood)**|
 |**2025-03-26**|**Iterative Prompting with Persuasion Skills in Jailbreaking Large Language Models**|Shih-Wen Ke et.al.|[2503.20320](http://arxiv.org/abs/2503.20320)|null|
 |**2025-06-08**|**sudo rm -rf agentic_security**|Sejin Lee et.al.|[2503.20279](http://arxiv.org/abs/2503.20279)|**[link](https://github.com/AIM-Intelligence/SUDO)**|
 |**2025-03-25**|**Red Teaming with Artificial Intelligence-Driven Cyberattacks: A Scoping Review**|Mays Al-Azzawi et.al.|[2503.19626](http://arxiv.org/abs/2503.19626)|null|
@@ -416,7 +416,7 @@
 |**2025-05-27**|**Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond**|Chongyu Fan et.al.|[2502.05374](http://arxiv.org/abs/2502.05374)|**[link](https://github.com/optml-group/unlearn-smooth)**|
 |**2025-02-05**|**KDA: A Knowledge-Distilled Attacker for Generating Diverse Prompts to Jailbreak LLMs**|Buyun Liang et.al.|[2502.05223](http://arxiv.org/abs/2502.05223)|null|
 |**2025-06-02**|**Safety at Scale: A Comprehensive Survey of Large Model Safety**|Xingjun Ma et.al.|[2502.05206](http://arxiv.org/abs/2502.05206)|**[link](https://github.com/xingjunm/awesome-large-model-safety)**|
-|**2025-06-10**|**MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI Agents**|Kaijie Zhu et.al.|[2502.05174](http://arxiv.org/abs/2502.05174)|null|
+|**2025-06-10**|**MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI Agents**|Kaijie Zhu et.al.|[2502.05174](http://arxiv.org/abs/2502.05174)|**[link](https://github.com/kaijiezhu11/melon)**|
 |**2025-02-06**|**Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions**|Yik Siu Chan et.al.|[2502.04322](http://arxiv.org/abs/2502.04322)|**[link](https://github.com/yiksiu-chan/SpeakEasy)**|
 |**2025-06-07**|**Short-length Adversarial Training Helps LLMs Defend Long-length Jailbreak Attacks: Theoretical and Empirical Evidence**|Shaopeng Fu et.al.|[2502.04204](http://arxiv.org/abs/2502.04204)|**[link](https://github.com/fshp971/adv-icl)**|
 |**2025-05-30**|**Safety Reasoning with Guidelines**|Haoyu Wang et.al.|[2502.04040](http://arxiv.org/abs/2502.04040)|null|
