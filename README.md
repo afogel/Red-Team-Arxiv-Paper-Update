@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666](http://arxiv.org/abs/2506.13666)|null|
-|**2025-06-16**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-AI Interactions**|Junfeng Jiao et.al.|[2506.13510](http://arxiv.org/abs/2506.13510)|null|
+|**2025-06-17**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-LLM Interactions**|Junfeng Jiao et.al.|[2506.13510](http://arxiv.org/abs/2506.13510)|null|
 |**2025-06-16**|**From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs**|Alsharif Abuadbba et.al.|[2506.13434](http://arxiv.org/abs/2506.13434)|null|
 |**2025-06-15**|**Jailbreak Strength and Model Similarity Predict Transferability**|Rico Angell et.al.|[2506.12913](http://arxiv.org/abs/2506.12913)|null|
 |**2025-06-15**|**Universal Jailbreak Suffixes Are Strong Attention Hijackers**|Matan Ben-Tov et.al.|[2506.12880](http://arxiv.org/abs/2506.12880)|null|
@@ -168,7 +168,7 @@
 |**2025-05-19**|**The Hidden Dangers of Browsing AI Agents**|Mykyta Mudryi et.al.|[2505.13076](http://arxiv.org/abs/2505.13076)|null|
 |**2025-05-19**|**CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models**|Shristi Das Biswas et.al.|[2505.12677](http://arxiv.org/abs/2505.12677)|null|
 |**2025-05-18**|**BadNAVer: Exploring Jailbreak Attacks On Vision-and-Language Navigation**|Wenqi Lyu et.al.|[2505.12443](http://arxiv.org/abs/2505.12443)|null|
-|**2025-05-18**|**CAPTURE: Context-Aware Prompt Injection Testing and Robustness Enhancement**|Gauri Kholkar et.al.|[2505.12368](http://arxiv.org/abs/2505.12368)|null|
+|**2025-06-17**|**CAPTURE: Context-Aware Prompt Injection Testing and Robustness Enhancement**|Gauri Kholkar et.al.|[2505.12368](http://arxiv.org/abs/2505.12368)|null|
 |**2025-05-18**|**The Tower of Babel Revisited: Multilingual Jailbreak Prompts on Closed-Source Large Language Models**|Linghan Huang et.al.|[2505.12287](http://arxiv.org/abs/2505.12287)|null|
 |**2025-05-17**|**Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard Enhancement**|Peng Ding et.al.|[2505.12060](http://arxiv.org/abs/2505.12060)|**[link](https://github.com/njunlp/sage)**|
 |**2025-05-17**|**Multilingual Collaborative Defense for Large Language Models**|Hongliang Li et.al.|[2505.11835](http://arxiv.org/abs/2505.11835)|**[link](https://github.com/hliang-lee/mcd)**|
@@ -187,7 +187,7 @@
 |**2025-05-19**|**Concept-Level Explainability for Auditing & Steering LLM Responses**|Kenza Amara et.al.|[2505.07610](http://arxiv.org/abs/2505.07610)|**[link](https://github.com/k-amara/ConceptX)**|
 |**2025-05-12**|**One Trigger Token Is Enough: A Defense Strategy for Balancing Safety and Usability in Large Language Models**|Haoran Gu et.al.|[2505.07167](http://arxiv.org/abs/2505.07167)|null|
 |**2025-05-25**|**Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety**|Zihan Guan et.al.|[2505.06843](http://arxiv.org/abs/2505.06843)|**[link](https://github.com/guanzihan/benign-samples-matter)**|
-|**2025-05-10**|**Jailbreaking the Text-to-Video Generative Models**|Jiayang Liu et.al.|[2505.06679](http://arxiv.org/abs/2505.06679)|null|
+|**2025-06-17**|**T2V-OptJail: Discrete Prompt Optimization for Text-to-Video Jailbreak Attacks**|Jiayang Liu et.al.|[2505.06679](http://arxiv.org/abs/2505.06679)|null|
 |**2025-05-10**|**Practical Reasoning Interruption Attacks on Reasoning Large Language Models**|Yu Cui et.al.|[2505.06643](http://arxiv.org/abs/2505.06643)|null|
 |**2025-05-21**|**Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model**|Xinyue Lou et.al.|[2505.06538](http://arxiv.org/abs/2505.06538)|**[link](https://github.com/xinyuelou/think-in-safety)**|
 |**2025-05-10**|**System Prompt Poisoning: Persistent Attacks on Large Language Models Beyond User Injection**|Jiawei Guo et.al.|[2505.06493](http://arxiv.org/abs/2505.06493)|null|
@@ -411,7 +411,7 @@
 |**2025-05-30**|**Rewrite to Jailbreak: Discover Learnable and Transferable Implicit Harmfulness Instruction**|Yuting Huang et.al.|[2502.11084](http://arxiv.org/abs/2502.11084)|**[link](https://github.com/ythuang02/R2J)**|
 |**2025-03-11**|**Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models**|Zonghao Ying et.al.|[2502.11054](http://arxiv.org/abs/2502.11054)|**[link](https://github.com/ny1024/race)**|
 |**2025-02-16**|**Prompt Inject Detection with Generative Explanation as an Investigative Tool**|Jonathan Pan et.al.|[2502.11006](http://arxiv.org/abs/2502.11006)|null|
-|**2025-02-15**|**Distraction is All You Need for Multimodal Large Language Model Jailbreaking**|Zuopeng Yang et.al.|[2502.10794](http://arxiv.org/abs/2502.10794)|null|
+|**2025-06-17**|**Distraction is All You Need for Multimodal Large Language Model Jailbreaking**|Zuopeng Yang et.al.|[2502.10794](http://arxiv.org/abs/2502.10794)|null|
 |**2025-02-14**|**Fast Proxies for LLM Robustness Evaluation**|Tim Beyer et.al.|[2502.10487](http://arxiv.org/abs/2502.10487)|null|
 |**2025-02-09**|**Injecting Universal Jailbreak Backdoors into LLMs in Minutes**|Zhuowei Chen et.al.|[2502.10438](http://arxiv.org/abs/2502.10438)|**[link](https://github.com/johnnychanv/JailbreakEdit)**|
 |**2025-02-04**|**Position: Stop Acting Like Language Model Agents Are Normal Agents**|Elija Perrier et.al.|[2502.10420](http://arxiv.org/abs/2502.10420)|null|
@@ -901,7 +901,7 @@
 |**2024-11-01**|**Improved Generation of Adversarial Examples Against Safety-aligned LLMs**|Qizhang Li et.al.|[2405.20778](http://arxiv.org/abs/2405.20778)|**[link](https://github.com/qizhangli/Gradient-based-Jailbreak-Attacks)**|
 |**2024-08-21**|**Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models**|Xijie Huang et.al.|[2405.20775](http://arxiv.org/abs/2405.20775)|**[link](https://github.com/dirtycomputer/o2m_attack)**|
 |**2024-06-12**|**Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character**|Siyuan Ma et.al.|[2405.20773](http://arxiv.org/abs/2405.20773)|null|
-|**2024-06-04**|**Enhancing Jailbreak Attack Against Large Language Models through Silent Tokens**|Jiahao Yu et.al.|[2405.20653](http://arxiv.org/abs/2405.20653)|null|
+|**2025-06-17**|**Mind the Inconspicuous: Revealing the Hidden Weakness in Aligned LLMs' Refusal Boundaries**|Jiahao Yu et.al.|[2405.20653](http://arxiv.org/abs/2405.20653)|null|
 |**2024-05-30**|**Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters**|Haibo Jin et.al.|[2405.20413](http://arxiv.org/abs/2405.20413)|null|
 |**2024-10-17**|**TAIA: Large Language Models are Out-of-Distribution Data Learners**|Shuyang Jiang et.al.|[2405.20192](http://arxiv.org/abs/2405.20192)|**[link](https://github.com/pixas/TAIA_LLM)**|
 |**2025-06-04**|**Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks**|Chen Xiong et.al.|[2405.20099](http://arxiv.org/abs/2405.20099)|null|
@@ -1267,7 +1267,7 @@
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
