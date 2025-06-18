@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682](http://arxiv.org/abs/2506.14682)|null|
+|**2025-06-16**|**Alignment Quality Index (AQI) : Beyond Refusals: AQI as an Intrinsic Alignment Diagnostic via Latent Geometry, Cluster Divergence, and Layer wise Pooled Representations**|Abhilekh Borah et.al.|[2506.13901](http://arxiv.org/abs/2506.13901)|null|
 |**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666](http://arxiv.org/abs/2506.13666)|null|
 |**2025-06-17**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-LLM Interactions**|Junfeng Jiao et.al.|[2506.13510](http://arxiv.org/abs/2506.13510)|null|
 |**2025-06-16**|**From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs**|Alsharif Abuadbba et.al.|[2506.13434](http://arxiv.org/abs/2506.13434)|null|
