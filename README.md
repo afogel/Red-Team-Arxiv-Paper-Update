@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.21
+## Updated on 2025.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,10 +20,10 @@
 |**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674](http://arxiv.org/abs/2506.15674)|**[link](https://github.com/parameterlab/leaky_thoughts)**|
 |**2025-06-18**|**From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem**|Yanxu Mao et.al.|[2506.15170](http://arxiv.org/abs/2506.15170)|null|
 |**2025-06-17**|**FORTRESS: Frontier Risk Evaluation for National Security and Public Safety**|Christina Q. Knight et.al.|[2506.14922](http://arxiv.org/abs/2506.14922)|null|
-|**2025-06-17**|**OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents**|Thomas Kuntz et.al.|[2506.14866](http://arxiv.org/abs/2506.14866)|null|
+|**2025-06-17**|**OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents**|Thomas Kuntz et.al.|[2506.14866](http://arxiv.org/abs/2506.14866)|**[link](https://github.com/tml-epfl/os-harm)**|
 |**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682](http://arxiv.org/abs/2506.14682)|**[link](https://github.com/dreadnode/airtbench-code)**|
 |**2025-06-16**|**Alignment Quality Index (AQI) : Beyond Refusals: AQI as an Intrinsic Alignment Diagnostic via Latent Geometry, Cluster Divergence, and Layer wise Pooled Representations**|Abhilekh Borah et.al.|[2506.13901](http://arxiv.org/abs/2506.13901)|null|
-|**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666](http://arxiv.org/abs/2506.13666)|null|
+|**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666](http://arxiv.org/abs/2506.13666)|**[link](https://github.com/littlelittlenine/safemcp)**|
 |**2025-06-17**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-LLM Interactions**|Junfeng Jiao et.al.|[2506.13510](http://arxiv.org/abs/2506.13510)|**[link](https://github.com/the-responsible-ai-initiative/safe_child_llm_benchmark)**|
 |**2025-06-16**|**From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs**|Alsharif Abuadbba et.al.|[2506.13434](http://arxiv.org/abs/2506.13434)|null|
 |**2025-06-15**|**Jailbreak Strength and Model Similarity Predict Transferability**|Rico Angell et.al.|[2506.12913](http://arxiv.org/abs/2506.12913)|null|
@@ -1273,7 +1273,7 @@
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
