@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-09**|**The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover**|Matteo Lupinacci et.al.|[2507.06850](http://arxiv.org/abs/2507.06850)|null|
+|**2025-07-10**|**The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover**|Matteo Lupinacci et.al.|[2507.06850](http://arxiv.org/abs/2507.06850)|null|
 |**2025-07-09**|**On the Robustness of Verbal Confidence of LLMs in Adversarial Attacks**|Stephen Obadinma et.al.|[2507.06489](http://arxiv.org/abs/2507.06489)|null|
 |**2025-07-09**|**Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models**|Aaron Dharna et.al.|[2507.06466](http://arxiv.org/abs/2507.06466)|null|
 |**2025-07-08**|**Bridging AI and Software Security: A Comparative Vulnerability Assessment of LLM Agent Deployment Paradigms**|Tarek Gasmi et.al.|[2507.06323](http://arxiv.org/abs/2507.06323)|null|
@@ -519,7 +519,7 @@
 |**2025-06-05**|**Blink of an eye: a simple theory for feature localization in generative models**|Marvin Li et.al.|[2502.00921](http://arxiv.org/abs/2502.00921)|null|
 |**2025-02-02**|**AgentBreeder: Mitigating the AI Safety Impact of Multi-Agent Scaffolds**|J Rosser et.al.|[2502.00757](http://arxiv.org/abs/2502.00757)|**[link](https://github.com/J-Rosser-UK/AgentBreeder)**|
 |**2025-05-18**|**`Do as I say not as I do': A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs**|Chun Wai Chiu et.al.|[2502.00735](http://arxiv.org/abs/2502.00735)|null|
-|**2025-02-02**|**"I am bad": Interpreting Stealthy, Universal and Robust Audio Jailbreaks in Audio-Language Models**|Isha Gupta et.al.|[2502.00718](http://arxiv.org/abs/2502.00718)|null|
+|**2025-07-10**|**"I am bad": Interpreting Stealthy, Universal and Robust Audio Jailbreaks in Audio-Language Models**|Isha Gupta et.al.|[2502.00718](http://arxiv.org/abs/2502.00718)|null|
 |**2025-02-02**|**Safety Alignment Depth in Large Language Models: A Markov Chain Perspective**|Ching-Chia Kao et.al.|[2502.00669](http://arxiv.org/abs/2502.00669)|null|
 |**2025-02-02**|**LLM Safety Alignment is Divergence Estimation in Disguise**|Rajdeep Haldar et.al.|[2502.00657](http://arxiv.org/abs/2502.00657)|**[link](https://github.com/rhaldarpurdue/kldo)**|
 |**2025-02-02**|**Towards Robust Multimodal Large Language Models Against Jailbreak Attacks**|Ziyi Yin et.al.|[2502.00653](http://arxiv.org/abs/2502.00653)|null|
@@ -670,7 +670,7 @@
 |**2025-05-21**|**SQL Injection Jailbreak: A Structural Disaster of Large Language Models**|Jiawei Zhao et.al.|[2411.01565](http://arxiv.org/abs/2411.01565)|**[link](https://github.com/weiyezhimeng/sql-injection-jailbreak)**|
 |**2024-11-03**|**AURA: Amplifying Understanding, Resilience, and Awareness for Responsible AI Content Work**|Alice Qian Zhang et.al.|[2411.01426](http://arxiv.org/abs/2411.01426)|null|
 |**2024-12-11**|**Plentiful Jailbreaks with String Compositions**|Brian R. Y. Huang et.al.|[2411.01084](http://arxiv.org/abs/2411.01084)|null|
-|**2025-02-18**|**Emoji Attack: Enhancing Jailbreak Attacks Against Judge LLM Detection**|Zhipeng Wei et.al.|[2411.01077](http://arxiv.org/abs/2411.01077)|**[link](https://github.com/zhipeng-wei/EmojiAttack)**|
+|**2025-07-09**|**Emoji Attack: Enhancing Jailbreak Attacks Against Judge LLM Detection**|Zhipeng Wei et.al.|[2411.01077](http://arxiv.org/abs/2411.01077)|**[link](https://github.com/zhipeng-wei/EmojiAttack)**|
 |**2025-03-08**|**IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves**|Ruofan Wang et.al.|[2411.00827](http://arxiv.org/abs/2411.00827)|null|
 |**2025-02-25**|**Defense Against Prompt Injection Attack by Leveraging Attack Techniques**|Yulin Chen et.al.|[2411.00459](http://arxiv.org/abs/2411.00459)|null|
 |**2025-04-23**|**Attention Tracker: Detecting Prompt Injection Attacks in LLMs**|Kuo-Han Hung et.al.|[2411.00348](http://arxiv.org/abs/2411.00348)|null|
@@ -871,7 +871,7 @@
 |**2024-12-16**|**Failures to Find Transferable Image Jailbreaks Between Vision-Language Models**|Rylan Schaeffer et.al.|[2407.15211](http://arxiv.org/abs/2407.15211)|null|
 |**2024-07-21**|**Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**|Yi Liu et.al.|[2407.15050](http://arxiv.org/abs/2407.15050)|null|
 |**2024-07-23**|**RogueGPT: dis-ethical tuning transforms ChatGPT4 into a Rogue AI in 158 Words**|Alessio Buscemi et.al.|[2407.15009](http://arxiv.org/abs/2407.15009)|null|
-|**2024-07-20**|**Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)**|Apurv Verma et.al.|[2407.14937](http://arxiv.org/abs/2407.14937)|**[link](https://github.com/dapurv5/awesome-red-teaming-llms)**|
+|**2025-07-10**|**Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)**|Apurv Verma et.al.|[2407.14937](http://arxiv.org/abs/2407.14937)|**[link](https://github.com/dapurv5/awesome-red-teaming-llms)**|
 |**2024-07-25**|**Human-Interpretable Adversarial Prompt Attack on Large Language Models with Situational Context**|Nilanjana Das et.al.|[2407.14644](http://arxiv.org/abs/2407.14644)|null|
 |**2024-08-23**|**Phi-3 Safety Post-Training: Aligning Language Models with a "Break-Fix" Cycle**|Emman Haider et.al.|[2407.13833](http://arxiv.org/abs/2407.13833)|null|
 |**2024-07-16**|**Continuous Embedding Attacks via Clipped Inputs in Jailbreaking Large Language Models**|Zihao Xu et.al.|[2407.13796](http://arxiv.org/abs/2407.13796)|**[link](https://github.com/ltroin/Clip1)**|
@@ -1338,7 +1338,7 @@
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
