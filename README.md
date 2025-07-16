@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning**|Zhengyue Zhao et.al.|[2507.11500](http://arxiv.org/abs/2507.11500)|null|
+|**2025-07-15**|**The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs**|Zichen Wen et.al.|[2507.11097](http://arxiv.org/abs/2507.11097)|null|
+|**2025-07-15**|**SEALGuard: Safeguarding the Multilingual Conversations in Southeast Asian Languages for LLM Software Systems**|Wenliang Shan et.al.|[2507.08898](http://arxiv.org/abs/2507.08898)|null|
 |**2025-07-10**|**A Dynamic Stackelberg Game Framework for Agentic AI Defense Against LLM Jailbreaking**|Zhengye Han et.al.|[2507.08207](http://arxiv.org/abs/2507.08207)|null|
 |**2025-07-06**|**Mass-Scale Analysis of In-the-Wild Conversations Reveals Complexity Bounds on LLM Jailbreaking**|Aldan Creo et.al.|[2507.08014](http://arxiv.org/abs/2507.08014)|null|
 |**2025-07-10**|**Defending Against Prompt Injection With a Few DefensiveTokens**|Sizhe Chen et.al.|[2507.07974](http://arxiv.org/abs/2507.07974)|null|
@@ -329,7 +332,7 @@
 |**2025-04-14**|**You've Changed: Detecting Modification of Black-Box Large Language Models**|Alden Dima et.al.|[2504.12335](http://arxiv.org/abs/2504.12335)|null|
 |**2025-04-10**|**AttentionDefense: Leveraging System Prompt Attention for Explainable Defense Against Novel Jailbreaks**|Charlotte Siska et.al.|[2504.12321](http://arxiv.org/abs/2504.12321)|null|
 |**2025-05-15**|**DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks**|Yupei Liu et.al.|[2504.11358](http://arxiv.org/abs/2504.11358)|**[link](https://github.com/liu00222/open-prompt-injection)**|
-|**2025-04-16**|**Bypassing Prompt Injection and Jailbreak Detection in LLM Guardrails**|William Hackett et.al.|[2504.11168](http://arxiv.org/abs/2504.11168)|null|
+|**2025-07-14**|**Bypassing LLM Guardrails: An Empirical Analysis of Evasion Attacks against Prompt Injection and Jailbreak Detection Systems**|William Hackett et.al.|[2504.11168](http://arxiv.org/abs/2504.11168)|null|
 |**2025-04-15**|**Token-Level Constraint Boundary Search for Jailbreaking Text-to-Image Models**|Jiangtao Liu et.al.|[2504.11106](http://arxiv.org/abs/2504.11106)|null|
 |**2025-04-14**|**The Jailbreak Tax: How Useful are Your Jailbreak Outputs?**|Kristina Nikolić et.al.|[2504.10694](http://arxiv.org/abs/2504.10694)|**[link](https://github.com/ethz-spylab/jailbreak-tax)**|
 |**2025-04-29**|**Demo: ViolentUTF as An Accessible Platform for Generative AI Red Teaming**|Tam n. Nguyen et.al.|[2504.10603](http://arxiv.org/abs/2504.10603)|null|
@@ -363,7 +366,7 @@
 |**2025-04-04**|**Multi-lingual Multi-turn Automated Red Teaming for LLMs**|Abhishek Singhania et.al.|[2504.03174](http://arxiv.org/abs/2504.03174)|null|
 |**2025-04-03**|**More is Less: The Pitfalls of Multi-Model Synthetic Preference Data in DPO Safety Alignment**|Yifan Wang et.al.|[2504.02193](http://arxiv.org/abs/2504.02193)|null|
 |**2025-04-02**|**Evolving Security in LLMs: A Study of Jailbreak Attacks and Defenses**|Zhengchun Shang et.al.|[2504.02080](http://arxiv.org/abs/2504.02080)|null|
-|**2025-06-09**|**Representation Bending for Large Language Model Safety**|Ashkan Yousefpour et.al.|[2504.01550](http://arxiv.org/abs/2504.01550)|**[link](https://github.com/aim-intelligence/repbend)**|
+|**2025-07-15**|**Representation Bending for Large Language Model Safety**|Ashkan Yousefpour et.al.|[2504.01550](http://arxiv.org/abs/2504.01550)|**[link](https://github.com/aim-intelligence/repbend)**|
 |**2025-04-02**|**LightDefense: A Lightweight Uncertainty-Driven Defense against Jailbreaks via Shifted Token Distribution**|Zhuoran Yang et.al.|[2504.01533](http://arxiv.org/abs/2504.01533)|null|
 |**2025-06-21**|**PiCo: Jailbreaking Multimodal Large Language Models via $\textbf{Pi}$ctorial $\textbf{Co}$ de Contextualization**|Aofan Liu et.al.|[2504.01444](http://arxiv.org/abs/2504.01444)|null|
 |**2025-04-07**|**Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks**|Jiawei Wang et.al.|[2504.01308](http://arxiv.org/abs/2504.01308)|**[link](https://github.com/jarvisustc/diffpure-robustvlm)**|
@@ -444,7 +447,7 @@
 |**2025-02-28**|**SafeText: Safe Text-to-image Models via Aligning the Text Encoder**|Yuepeng Hu et.al.|[2502.20623](http://arxiv.org/abs/2502.20623)|null|
 |**2025-05-26**|**Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models**|Sibo Yi et.al.|[2502.19883](http://arxiv.org/abs/2502.19883)|null|
 |**2025-03-28**|**Foot-In-The-Door: A Multi-turn Jailbreak for LLMs**|Zixuan Weng et.al.|[2502.19820](http://arxiv.org/abs/2502.19820)|**[link](https://github.com/Jinxiaolong1129/Foot-in-the-door-Jailbreak)**|
-|**2025-06-29**|**No, of course I can! Refusal Mechanisms Can Be Exploited Using Harmless Fine-Tuning Data**|Joshua Kazdan et.al.|[2502.19537](http://arxiv.org/abs/2502.19537)|null|
+|**2025-07-12**|**No, of Course I Can! Deeper Fine-Tuning Attacks That Bypass Token-Level Safety Mechanisms**|Joshua Kazdan et.al.|[2502.19537](http://arxiv.org/abs/2502.19537)|null|
 |**2025-05-28**|**Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs**|Shiyu Xiang et.al.|[2502.19041](http://arxiv.org/abs/2502.19041)|null|
 |**2025-02-26**|**JailBench: A Comprehensive Chinese Security Assessment Benchmark for Large Language Models**|Shuyi Liu et.al.|[2502.18935](http://arxiv.org/abs/2502.18935)|null|
 |**2025-06-04**|**TurboFuzzLLM: Turbocharging Mutation-based Fuzzing for Effectively Jailbreaking Large Language Models in Practice**|Aman Goel et.al.|[2502.18504](http://arxiv.org/abs/2502.18504)|**[link](https://github.com/amazon-science/TurboFuzzLLM)**|
@@ -805,7 +808,7 @@
 |**2024-09-12**|**Games for AI Control: Models of Safety Evaluations of AI Deployment Protocols**|Charlie Griffin et.al.|[2409.07985](http://arxiv.org/abs/2409.07985)|null|
 |**2024-09-11**|**AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs**|Lijia Lv et.al.|[2409.07503](http://arxiv.org/abs/2409.07503)|**[link](https://github.com/yummy416/adappa)**|
 |**2024-09-11**|**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**|Md Zarif Hossain et.al.|[2409.07353](http://arxiv.org/abs/2409.07353)|null|
-|**2024-09-10**|**DiPT: Enhancing LLM reasoning through diversified perspective-taking**|Hoang Anh Just et.al.|[2409.06241](http://arxiv.org/abs/2409.06241)|null|
+|**2025-07-13**|**DiPT: Enhancing LLM reasoning through diversified perspective-taking**|Hoang Anh Just et.al.|[2409.06241](http://arxiv.org/abs/2409.06241)|null|
 |**2024-09-07**|**Exploring Straightforward Conversational Red-Teaming**|George Kour et.al.|[2409.04822](http://arxiv.org/abs/2409.04822)|null|
 |**2025-06-09**|**HSF: Defending against Jailbreak Attacks with Hidden State Filtering**|Cheng Qian et.al.|[2409.03788](http://arxiv.org/abs/2409.03788)|null|
 |**2024-11-29**|**Conversational Complexity for Assessing Risk in Large Language Models**|John Burden et.al.|[2409.01247](http://arxiv.org/abs/2409.01247)|null|
@@ -1345,7 +1348,7 @@
 |**2017-09-29**|**Hydrogen-rich supernovae beyond the neutrino-driven core-collapse paradigm**|G. Terreran et.al.|[1709.10475](http://arxiv.org/abs/1709.10475)|null|
 |**2015-04-07**|**Security Toolbox for Detecting Novel and Sophisticated Android Malware**|Benjamin Holland et.al.|[1504.01693](http://arxiv.org/abs/1504.01693)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
