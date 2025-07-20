@@ -7,16 +7,21 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Prompt Injection 2.0: Hybrid AI Threats**|Jeremy McHugh et.al.|[2507.13169](http://arxiv.org/abs/2507.13169)|null|
+|**2025-07-17**|**MAD-Spear: A Conformity-Driven Prompt Injection Attack on Multi-Agent Debate Systems**|Yu Cui et.al.|[2507.13038](http://arxiv.org/abs/2507.13038)|null|
+|**2025-07-16**|**Exploiting Jailbreaking Vulnerabilities in Generative AI to Bypass Ethical Safeguards for Facilitating Phishing Attacks**|Rina Mishra et.al.|[2507.12185](http://arxiv.org/abs/2507.12185)|null|
+|**2025-07-16**|**LLMs Encode Harmfulness and Refusal Separately**|Jiachen Zhao et.al.|[2507.11878](http://arxiv.org/abs/2507.11878)|null|
+|**2025-07-15**|**Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility**|Brendan Murphy et.al.|[2507.11630](http://arxiv.org/abs/2507.11630)|null|
 |**2025-07-14**|**ARMOR: Aligning Secure and Safe Large Language Models via Meticulous Reasoning**|Zhengyue Zhao et.al.|[2507.11500](http://arxiv.org/abs/2507.11500)|null|
 |**2025-07-15**|**The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs**|Zichen Wen et.al.|[2507.11097](http://arxiv.org/abs/2507.11097)|null|
-|**2025-07-15**|**SEALGuard: Safeguarding the Multilingual Conversations in Southeast Asian Languages for LLM Software Systems**|Wenliang Shan et.al.|[2507.08898](http://arxiv.org/abs/2507.08898)|null|
+|**2025-07-17**|**SEALGuard: Safeguarding the Multilingual Conversations in Southeast Asian Languages for LLM Software Systems**|Wenliang Shan et.al.|[2507.08898](http://arxiv.org/abs/2507.08898)|null|
 |**2025-07-10**|**A Dynamic Stackelberg Game Framework for Agentic AI Defense Against LLM Jailbreaking**|Zhengye Han et.al.|[2507.08207](http://arxiv.org/abs/2507.08207)|null|
 |**2025-07-06**|**Mass-Scale Analysis of In-the-Wild Conversations Reveals Complexity Bounds on LLM Jailbreaking**|Aldan Creo et.al.|[2507.08014](http://arxiv.org/abs/2507.08014)|null|
 |**2025-07-10**|**Defending Against Prompt Injection With a Few DefensiveTokens**|Sizhe Chen et.al.|[2507.07974](http://arxiv.org/abs/2507.07974)|null|
@@ -358,7 +363,7 @@ layout: default
 |**2025-04-07**|**A Domain-Based Taxonomy of Jailbreak Vulnerabilities in Large Language Models**|Carlos Peláez-González et.al.|[2504.04976](http://arxiv.org/abs/2504.04976)|null|
 |**2025-05-14**|**Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models**|Yubo Li et.al.|[2504.04717](http://arxiv.org/abs/2504.04717)|**[link](https://github.com/yubol-cmu/awesome-multi-turn-llms)**|
 |**2025-04-06**|**StyleRec: A Benchmark Dataset for Prompt Recovery in Writing Style Transformation**|Shenyang Liu et.al.|[2504.04373](http://arxiv.org/abs/2504.04373)|null|
-|**2025-04-08**|**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**|Yi Nian et.al.|[2504.03770](http://arxiv.org/abs/2504.03770)|**[link](https://github.com/ShenzheZhu/JailDAM)**|
+|**2025-07-16**|**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**|Yi Nian et.al.|[2504.03770](http://arxiv.org/abs/2504.03770)|**[link](https://github.com/ShenzheZhu/JailDAM)**|
 |**2025-04-04**|**RWKVTTS: Yet another TTS based on RWKV-7**|Lin yueyu et.al.|[2504.03289](http://arxiv.org/abs/2504.03289)|**[link](https://github.com/yynil/rwkvtts)**|
 |**2025-04-04**|**Multi-lingual Multi-turn Automated Red Teaming for LLMs**|Abhishek Singhania et.al.|[2504.03174](http://arxiv.org/abs/2504.03174)|null|
 |**2025-04-03**|**More is Less: The Pitfalls of Multi-Model Synthetic Preference Data in DPO Safety Alignment**|Yifan Wang et.al.|[2504.02193](http://arxiv.org/abs/2504.02193)|null|
@@ -851,7 +856,7 @@ layout: default
 |**2024-08-07**|**Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection**|Subaru Kimura et.al.|[2408.03554](http://arxiv.org/abs/2408.03554)|null|
 |**2024-09-09**|**A Study on Prompt Injection Attack Against LLM-Integrated Mobile Robotic Systems**|Wenxiao Zhang et.al.|[2408.03515](http://arxiv.org/abs/2408.03515)|null|
 |**2025-03-31**|**TestART: Improving LLM-based Unit Testing via Co-evolution of Automated Generation and Repair Iteration**|Siqi Gu et.al.|[2408.03095](http://arxiv.org/abs/2408.03095)|null|
-|**2024-12-27**|**Data Poisoning in LLMs: Jailbreak-Tuning and Scaling Laws**|Dillon Bowen et.al.|[2408.02946](http://arxiv.org/abs/2408.02946)|**[link](https://github.com/alignmentresearch/scaling-poisoning)**|
+|**2025-07-17**|**Scaling Trends for Data Poisoning in LLMs**|Dillon Bowen et.al.|[2408.02946](http://arxiv.org/abs/2408.02946)|**[link](https://github.com/alignmentresearch/scaling-poisoning)**|
 |**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651](http://arxiv.org/abs/2408.02651)|null|
 |**2024-12-23**|**SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models**|Muxi Diao et.al.|[2408.02632](http://arxiv.org/abs/2408.02632)|null|
 |**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420](http://arxiv.org/abs/2408.01420)|null|
