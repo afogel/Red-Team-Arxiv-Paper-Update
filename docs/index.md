@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
@@ -97,7 +97,7 @@ layout: default
 |**2025-06-19**|**Probing the Robustness of Large Language Models Safety to Latent Perturbations**|Tianle Gu et.al.|[2506.16078](http://arxiv.org/abs/2506.16078)|**[link](https://github.com/carol-gutianle/latentsafety)**|
 |**2025-06-18**|**Sysformer: Safeguarding Frozen Large Language Models with Adaptive System Prompts**|Kartik Sharma et.al.|[2506.15751](http://arxiv.org/abs/2506.15751)|null|
 |**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674](http://arxiv.org/abs/2506.15674)|**[link](https://github.com/parameterlab/leaky_thoughts)**|
-|**2025-06-18**|**From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem**|Yanxu Mao et.al.|[2506.15170](http://arxiv.org/abs/2506.15170)|null|
+|**2025-07-20**|**From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem**|Yanxu Mao et.al.|[2506.15170](http://arxiv.org/abs/2506.15170)|null|
 |**2025-06-24**|**FORTRESS: Frontier Risk Evaluation for National Security and Public Safety**|Christina Q. Knight et.al.|[2506.14922](http://arxiv.org/abs/2506.14922)|null|
 |**2025-06-17**|**OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents**|Thomas Kuntz et.al.|[2506.14866](http://arxiv.org/abs/2506.14866)|**[link](https://github.com/tml-epfl/os-harm)**|
 |**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682](http://arxiv.org/abs/2506.14682)|**[link](https://github.com/dreadnode/airtbench-code)**|
