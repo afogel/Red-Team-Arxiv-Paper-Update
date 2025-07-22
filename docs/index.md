@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Multi-Stage Prompt Inference Attacks on Enterprise LLM Systems**|Andrii Balashov et.al.|[2507.15613](http://arxiv.org/abs/2507.15613)|null|
+|**2025-07-21**|**Red-Team Multi-Agent Reinforcement Learning for Emergency Braking Scenario**|Yinsong Chen et.al.|[2507.15587](http://arxiv.org/abs/2507.15587)|null|
+|**2025-07-21**|**QSAF: A Novel Mitigation Framework for Cognitive Degradation in Agentic AI**|Hammad Atta et.al.|[2507.15330](http://arxiv.org/abs/2507.15330)|null|
+|**2025-07-21**|**PromptArmor: Simple yet Effective Prompt Injection Defenses**|Tianneng Shi et.al.|[2507.15219](http://arxiv.org/abs/2507.15219)|null|
+|**2025-07-20**|**DeRAG: Black-box Adversarial Attacks on Multiple Retrieval-Augmented Generation Applications via Prompt Injection**|Jerry Wang et.al.|[2507.15042](http://arxiv.org/abs/2507.15042)|null|
+|**2025-07-20**|**AlphaAlign: Incentivizing Safety Alignment with Extremely Simplified Reinforcement Learning**|Yi Zhang et.al.|[2507.14987](http://arxiv.org/abs/2507.14987)|null|
+|**2025-07-20**|**Hierarchical Cross-modal Prompt Learning for Vision-Language Models**|Hao Zheng et.al.|[2507.14976](http://arxiv.org/abs/2507.14976)|null|
+|**2025-07-20**|**Strategic Integration of AI Chatbots in Physics Teacher Preparation: A TPACK-SWOT Analysis of Pedagogical, Epistemic, and Cybersecurity Dimensions**|N. Mohammadipour et.al.|[2507.14860](http://arxiv.org/abs/2507.14860)|null|
+|**2025-07-20**|**Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree**|Sam Johnson et.al.|[2507.14799](http://arxiv.org/abs/2507.14799)|null|
+|**2025-07-14**|**PRM-Free Security Alignment of Large Models via Red Teaming and Adversarial Training**|Pengfei Du et.al.|[2507.14202](http://arxiv.org/abs/2507.14202)|null|
 |**2025-07-18**|**Innocence in the Crossfire: Roles of Skip Connections in Jailbreaking Visual Language Models**|Palash Nandi et.al.|[2507.13761](http://arxiv.org/abs/2507.13761)|null|
 |**2025-07-18**|**TopicAttack: An Indirect Prompt Injection Attack via Topic Transition**|Yulin Chen et.al.|[2507.13686](http://arxiv.org/abs/2507.13686)|null|
 |**2025-07-17**|**Paper Summary Attack: Jailbreaking LLMs through LLM Safety Papers**|Liang Lin et.al.|[2507.13474](http://arxiv.org/abs/2507.13474)|null|
