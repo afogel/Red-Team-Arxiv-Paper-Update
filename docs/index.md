@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Red Teaming
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling**|Boheng Li et.al.|[2507.16329](http://arxiv.org/abs/2507.16329)|null|
 |**2025-07-21**|**Multi-Stage Prompt Inference Attacks on Enterprise LLM Systems**|Andrii Balashov et.al.|[2507.15613](http://arxiv.org/abs/2507.15613)|null|
 |**2025-07-21**|**Red-Team Multi-Agent Reinforcement Learning for Emergency Braking Scenario**|Yinsong Chen et.al.|[2507.15587](http://arxiv.org/abs/2507.15587)|null|
 |**2025-07-21**|**QSAF: A Novel Mitigation Framework for Cognitive Degradation in Agentic AI**|Hammad Atta et.al.|[2507.15330](http://arxiv.org/abs/2507.15330)|null|
@@ -471,7 +472,7 @@ layout: default
 |**2025-02-24**|**REINFORCE Adversarial Attacks on Large Language Models: An Adaptive, Distributional, and Semantic Objective**|Simon Geisler et.al.|[2502.17254](http://arxiv.org/abs/2502.17254)|**[link](https://github.com/sigeisler/reinforce-attacks-llms)**|
 |**2025-07-09**|**GuidedBench: Measuring and Mitigating the Evaluation Discrepancies of In-the-wild LLM Jailbreak Methods**|Ruixuan Huang et.al.|[2502.16903](http://arxiv.org/abs/2502.16903)|null|
 |**2025-06-12**|**Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System**|Saikat Barua et.al.|[2502.16750](http://arxiv.org/abs/2502.16750)|**[link](https://github.com/GitsSaikat/Guardians-Preventing-Jail-Break-Prompts)**|
-|**2025-07-18**|**Can Indirect Prompt Injection Attacks Be Detected and Removed?**|Yulin Chen et.al.|[2502.16580](http://arxiv.org/abs/2502.16580)|null|
+|**2025-07-22**|**Can Indirect Prompt Injection Attacks Be Detected and Removed?**|Yulin Chen et.al.|[2502.16580](http://arxiv.org/abs/2502.16580)|null|
 |**2025-02-22**|**Be a Multitude to Itself: A Prompt Evolution Framework for Red Teaming**|Rui Li et.al.|[2502.16109](http://arxiv.org/abs/2502.16109)|null|
 |**2025-06-03**|**A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos**|Yang Yao et.al.|[2502.15806](http://arxiv.org/abs/2502.15806)|null|
 |**2025-05-23**|**SafeInt: Shielding Large Language Models from Jailbreak Attacks via Safety-Aware Representation Intervention**|Jiaqi Wu et.al.|[2502.15594](http://arxiv.org/abs/2502.15594)|null|
@@ -697,7 +698,7 @@ layout: default
 |**2024-12-11**|**Plentiful Jailbreaks with String Compositions**|Brian R. Y. Huang et.al.|[2411.01084](http://arxiv.org/abs/2411.01084)|null|
 |**2025-07-11**|**Emoji Attack: Enhancing Jailbreak Attacks Against Judge LLM Detection**|Zhipeng Wei et.al.|[2411.01077](http://arxiv.org/abs/2411.01077)|**[link](https://github.com/zhipeng-wei/EmojiAttack)**|
 |**2025-03-08**|**IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves**|Ruofan Wang et.al.|[2411.00827](http://arxiv.org/abs/2411.00827)|null|
-|**2025-07-18**|**Defense Against Prompt Injection Attack by Leveraging Attack Techniques**|Yulin Chen et.al.|[2411.00459](http://arxiv.org/abs/2411.00459)|null|
+|**2025-07-22**|**Defense Against Prompt Injection Attack by Leveraging Attack Techniques**|Yulin Chen et.al.|[2411.00459](http://arxiv.org/abs/2411.00459)|null|
 |**2025-04-23**|**Attention Tracker: Detecting Prompt Injection Attacks in LLMs**|Kuo-Han Hung et.al.|[2411.00348](http://arxiv.org/abs/2411.00348)|null|
 |**2024-11-26**|**Desert Camels and Oil Sheikhs: Arab-Centric Red Teaming of Frontier LLMs**|Muhammed Saeed et.al.|[2410.24049](http://arxiv.org/abs/2410.24049)|null|
 |**2024-10-31**|**Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models**|Hao Yang et.al.|[2410.23861](http://arxiv.org/abs/2410.23861)|**[link](https://github.com/YangHao97/RedteamAudioLMMs)**|
@@ -908,7 +909,7 @@ layout: default
 |**2024-08-21**|**What Makes and Breaks Safety Fine-tuning? A Mechanistic Study**|Samyak Jain et.al.|[2407.10264](http://arxiv.org/abs/2407.10264)|null|
 |**2024-07-13**|**MOAT: Securely Mitigating Rowhammer with Per-Row Activation Counters**|Moinuddin Qureshi et.al.|[2407.09995](http://arxiv.org/abs/2407.09995)|null|
 |**2025-05-28**|**ASTPrompter: Preference-Aligned Automated Language Model Red-Teaming to Generate Low-Perplexity Unsafe Prompts**|Amelia F. Hardy et.al.|[2407.09447](http://arxiv.org/abs/2407.09447)|**[link](https://github.com/sisl/astprompter)**|
-|**2025-03-04**|**TPIA: Towards Target-specific Prompt Injection Attack against Code-oriented Large Language Models**|Yuchen Yang et.al.|[2407.09164](http://arxiv.org/abs/2407.09164)|null|
+|**2025-07-22**|**ShadowCode: Towards (Automatic) External Prompt Injection Attack against Code LLMs**|Yuchen Yang et.al.|[2407.09164](http://arxiv.org/abs/2407.09164)|null|
 |**2025-06-13**|**Self-interpreting Adversarial Images**|Tingwei Zhang et.al.|[2407.08970](http://arxiv.org/abs/2407.08970)|**[link](https://github.com/tingwei-zhang/soft-prompts-go-hard)**|
 |**2025-02-11**|**Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing**|Huanqian Wang et.al.|[2407.08770](http://arxiv.org/abs/2407.08770)|**[link](https://github.com/lucywang720/model-surgery)**|
 |**2025-02-13**|**Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation**|Riccardo Cantini et.al.|[2407.08441](http://arxiv.org/abs/2407.08441)|**[link](https://github.com/SCAlabUnical/LLM-Bias-Jailbreak)**|
